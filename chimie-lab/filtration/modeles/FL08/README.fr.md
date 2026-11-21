@@ -11,7 +11,7 @@ Deux embouts OD8 à bourrelets Ø9, passage Ø4. Réutilise FL06 et FL09 ; aucun
 - Interface : Deux embouts OD8 à bourrelets Ø9, passage Ø4. Réutilise FL06 et FL09 ; aucune efficacité de piège ou tenue au vide prouvée.
 - Fichiers : [FL08.stl](FL08.stl), [FL08.step](FL08.step), [FL08.FCStd](FL08.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

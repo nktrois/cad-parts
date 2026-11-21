@@ -11,7 +11,7 @@ Anneau ID74/OD118 ; déport d'axe 112 mm ; logement de tige Ø12,4 ; deux bagues
 - Interface : Anneau ID74/OD118 ; déport d'axe 112 mm ; logement de tige Ø12,4 ; deux bagues de blocage de tige commerciales nécessaires.
 - Fichiers : [FL12.stl](FL12.stl), [FL12.step](FL12.step), [FL12.FCStd](FL12.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

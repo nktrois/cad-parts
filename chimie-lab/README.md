@@ -17,6 +17,16 @@
 
 GitHub displays the Markdown catalogue. Download the collection and open `catalogue.html` locally to use its search and material filters.
 
+## Materials
+
+| Part type | Suggested material |
+|---|---|
+| Vessels and wetted filtration parts | PP |
+| Dry stands, racks and organizers | PETG |
+| Flexible seals | TPU |
+
+Select the exact grade for the intended use; see the [material guide](recipients-chimiques/MATERIAUX.md) and each model's notes.
+
 ## Files and settings
 
 Each model folder contains its STL in millimetres, STEP, FCStd, `source.json`, `preview.jpg`, `README.md` and `README.fr.md`. Common generators remain under the relevant `scripts/` folder, linked from every notice. Parametric regeneration uses Python/JSON with FreeCAD. Native documents contain solids and metadata, without sketch-based feature histories.
@@ -27,6 +37,6 @@ See the [printing and regeneration guide](IMPRESSION.md) and the [material guide
 
 All 80 meshes have closed, consistently oriented topology, one component and positive volume. STEP and FreeCAD readback confirms one valid solid per model. Each printable part fits within 240 mm on every axis; the largest dimension is 235 mm. [Mesh report](verification/mesh-report.json) · [CAD readback](verification/cad-readback.json).
 
-These are digital prototypes. No physical printing, leak, chemical, thermal or vacuum tests have been performed. PP is a candidate for compatible wetted parts, PETG for dry supports, and TPU for compatible seals. Select the grade for the actual reagent, concentration, temperature and exposure time. No vacuum rating is assigned to the printed receiver or lids; initial filtration trials are gravity-fed with the vent open.
+Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. See the [filtration notes](filtration/README.md) for assembly and operating limits.
 
 Original designs by **nktrois**, under [CC BY 4.0](LICENSE).

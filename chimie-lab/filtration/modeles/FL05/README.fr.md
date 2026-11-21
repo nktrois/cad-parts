@@ -11,7 +11,7 @@ Tige Ø16 dans alésage TPU Ø15,6 ; cône Ø29,8–34,2 dans col Ø29,6–34 ; 
 - Interface : Tige Ø16 dans alésage TPU Ø15,6 ; cône Ø29,8–34,2 dans col Ø29,6–34 ; interférences volontaires de conception.
 - Fichiers : [FL05.stl](FL05.stl), [FL05.step](FL05.step), [FL05.FCStd](FL05.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

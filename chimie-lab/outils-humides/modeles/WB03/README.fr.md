@@ -11,7 +11,7 @@ Maintenir six plaquettes ou éprouvettes dans un bain compatible, sans besoin de
 - Interface : Six fentes de 3,2 mm ; dimensions des éprouvettes à mesurer ; aucune conformité à une norme de corrosion revendiquée.
 - Fichiers : [WB03.stl](WB03.stl), [WB03.step](WB03.step), [WB03.FCStd](WB03.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

@@ -21,7 +21,17 @@ Le système de filtration réunit le collecteur, une chambre démontable, deux g
 
 Les 80 STL ont une topologie fermée, un seul composant, des orientations cohérentes et un volume positif. Les STEP et FCStd ont été relus indépendamment : un solide valide par pièce. Chaque modèle tient individuellement dans 240 mm sur les trois axes ; le plus grand atteint 235 mm. Les contrôles d'assemblage de filtration ne détectent aucune collision rigide inattendue ; les deux interférences TPU prévues sont identifiées.
 
-Ces contrôles numériques ne sont pas des essais d'étanchéité, de résistance chimique, de chauffe ou de vide. **Aucune pièce n'a encore été imprimée ou physiquement qualifiée.** La configuration initiale du filtre est gravitaire, évent ouvert. Le récepteur et le couvercle à deux ports restent sans tenue au vide assignée. La matière et le grade doivent convenir au produit, à sa concentration, à la température et à la durée réelles ; le TPU n'est pas un joint universel pour les acides et bases.
+État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages. Les conditions d'utilisation sont détaillées dans les [notices de filtration](filtration/README.fr.md) et le guide des matériaux.
+
+## Matières
+
+| Type de pièce | Matière conseillée |
+|---|---|
+| Récipients et pièces de filtration en contact avec le liquide | PP |
+| Supports, portoirs et rangements à sec | PETG |
+| Joints souples | TPU |
+
+Choisir le grade adapté à l'usage prévu en suivant le [guide des matériaux](recipients-chimiques/MATERIAUX.md) et la notice de chaque modèle.
 
 ## Imprimer et modifier
 

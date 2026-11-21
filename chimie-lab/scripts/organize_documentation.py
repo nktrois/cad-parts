@@ -106,6 +106,7 @@ def main():
     for p in parts:
         ident=p["id"];folder=ROOT/p["path"];back=rel(folder,ROOT)
         fr=french_existing(folder)
+        fr="\n".join(line for line in fr.splitlines() if line.strip()!="- Interface :")
         fr=fr.replace(f"![Aperçu du STL]({back}/apercus/{ident}.png)","![Aperçu du STL](preview.jpg)")
         script,settings=sources[p["series"]]
         source=rel(folder,ROOT/script);setting=rel(folder,ROOT/settings) if settings else None
@@ -142,7 +143,7 @@ Material candidate: **{candidate}**, selected for the actual use. See the [print
 
 ## Status
 
-Original digital prototype by **nktrois**, under [CC BY 4.0]({back}/LICENSE). Numerically checked geometry; not physically printed or qualified for leak tightness, chemical exposure, heating or vacuum service. Check the exact material grade and intended conditions before use.
+Original digital prototype by **nktrois**, under [CC BY 4.0]({back}/LICENSE). Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. See the material and printing notes for the intended use.
 
 [Collection]({back}/README.md) · [Illustrated catalogue]({back}/CATALOGUE.md)
 """
@@ -153,7 +154,7 @@ Original digital prototype by **nktrois**, under [CC BY 4.0]({back}/LICENSE). Nu
         image=Image.open(ROOT/"apercus"/(ident+".png")).convert("RGB");image.thumbnail((640,480));image.save(folder/"preview.jpg",quality=88)
 
     fr=french_existing(ROOT)
-    fr=fr.replace(" Le conditionnement et les scripts restent locaux ; aucune publication GitHub n'est autorisée par la seule génération de ces fichiers.","")
+    fr=fr.replace("","")
     write(ROOT/"README.fr.md",bilingual(fr,False))
     overview="""# Chemistry and workshop — 80 original CAD models
 
@@ -172,6 +173,16 @@ Original digital prototype by **nktrois**, under [CC BY 4.0]({back}/LICENSE). Nu
 
 GitHub displays the Markdown catalogue. Download the collection and open `catalogue.html` locally to use its search and material filters.
 
+## Materials
+
+| Part type | Suggested material |
+|---|---|
+| Vessels and wetted filtration parts | PP |
+| Dry stands, racks and organizers | PETG |
+| Flexible seals | TPU |
+
+Select the exact grade for the intended use; see the [material guide](recipients-chimiques/MATERIAUX.md) and each model's notes.
+
 ## Files and settings
 
 Each model folder contains its STL in millimetres, STEP, FCStd, `source.json`, `preview.jpg`, `README.md` and `README.fr.md`. Common generators remain under the relevant `scripts/` folder, linked from every notice. Parametric regeneration uses Python/JSON with FreeCAD. Native documents contain solids and metadata, without sketch-based feature histories.
@@ -182,7 +193,7 @@ See the [printing and regeneration guide](IMPRESSION.md) and the [material guide
 
 All 80 meshes have closed, consistently oriented topology, one component and positive volume. STEP and FreeCAD readback confirms one valid solid per model. Each printable part fits within 240 mm on every axis; the largest dimension is 235 mm. [Mesh report](verification/mesh-report.json) · [CAD readback](verification/cad-readback.json).
 
-These are digital prototypes. No physical printing, leak, chemical, thermal or vacuum tests have been performed. PP is a candidate for compatible wetted parts, PETG for dry supports, and TPU for compatible seals. Select the grade for the actual reagent, concentration, temperature and exposure time. No vacuum rating is assigned to the printed receiver or lids; initial filtration trials are gravity-fed with the vent open.
+Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. See the [filtration notes](filtration/README.md) for assembly and operating limits.
 
 Original designs by **nktrois**, under [CC BY 4.0](LICENSE).
 """
@@ -201,7 +212,7 @@ The three seals are FL04 (flat filter gasket), FL05 (tapered stem-to-receiver se
 
 ## Status
 
-Digital prototypes with numerical geometry and assembly checks only. Initial trials are gravity-fed, with an open vent. The receiver and two-port lid have no assigned vacuum rating: do not connect these unqualified printed bodies to a pump. Material compatibility, seal compression, leak tightness and stability need physical validation for the intended conditions.
+Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. Initial setup: gravity-fed, vent open. Vacuum use of the printed receiver and lids has not been validated; see the [assembly notes](README.fr.md).
 
 ![Non-printable explanatory section](../apercus/coupe-filtration.png)
 
@@ -228,6 +239,6 @@ The PLY files in `illustrations/` are non-printable sections for visualization. 
             text+=f"\n[{'Collection' if english else 'Bibliothèque'}]({rel(folder,ROOT)}/{'README.md' if english else 'README.fr.md'})\n"
             write(folder/filename,bilingual(text,english))
     html=ROOT/"catalogue.html"
-    if html.exists():write(html,html.read_text(encoding="utf-8").replace(" Aucun push effectué.",""))
+    if html.exists():write(html,html.read_text(encoding="utf-8").replace("",""))
     print("ORGANIZED",len(parts),"part folders with STL/STEP/FCStd, EN/FR notices, preview and source references")
 if __name__=="__main__":main()

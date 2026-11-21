@@ -11,7 +11,7 @@ Trois trous Ø15,6 / 15,8 / 16 mm pour tester le vrai filament avant le joint co
 - Interface : Trois trous Ø15,6 / 15,8 / 16 mm pour tester le vrai filament avant le joint conique complet.
 - Fichiers : [FL16.stl](FL16.stl), [FL16.step](FL16.step), [FL16.FCStd](FL16.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

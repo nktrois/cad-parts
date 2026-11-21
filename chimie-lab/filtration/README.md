@@ -12,7 +12,7 @@ The three seals are FL04 (flat filter gasket), FL05 (tapered stem-to-receiver se
 
 ## Status
 
-Digital prototypes with numerical geometry and assembly checks only. Initial trials are gravity-fed, with an open vent. The receiver and two-port lid have no assigned vacuum rating: do not connect these unqualified printed bodies to a pump. Material compatibility, seal compression, leak tightness and stability need physical validation for the intended conditions.
+Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. Initial setup: gravity-fed, vent open. Vacuum use of the printed receiver and lids has not been validated; see the [assembly notes](README.fr.md).
 
 ![Non-printable explanatory section](../apercus/coupe-filtration.png)
 

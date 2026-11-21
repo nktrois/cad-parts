@@ -11,7 +11,7 @@ Trois passages ouverts Ø9,2 pour tuyaux extérieurs compatibles ; ce n'est pas 
 - Interface : Trois passages ouverts Ø9,2 pour tuyaux extérieurs compatibles ; ce n'est pas un raccord étanche.
 - Fichiers : [FL14.stl](FL14.stl), [FL14.step](FL14.step), [FL14.FCStd](FL14.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

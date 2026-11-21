@@ -23,7 +23,7 @@ Material candidate: **TPU**, selected for the actual use. See the [printing guid
 
 ## Status
 
-Original digital prototype by **nktrois**, under [CC BY 4.0](../../../LICENSE). Numerically checked geometry; not physically printed or qualified for leak tightness, chemical exposure, heating or vacuum service. Check the exact material grade and intended conditions before use.
+Original digital prototype by **nktrois**, under [CC BY 4.0](../../../LICENSE). Initial release (21 November 2026): models checked digitally, before the first prints. Print feedback and test results will guide updates to dimensions, fits and printing settings. See the material and printing notes for the intended use.
 
 [Collection](../../../README.md) · [Illustrated catalogue](../../../CATALOGUE.md)
  · [Filtration assembly](../../../filtration/README.md)

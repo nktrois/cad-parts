@@ -11,7 +11,7 @@ Logement Ø127,2 pour corps Ø126 ; quatre vis M5 à tête fraisée 90° vers FL
 - Interface : Logement Ø127,2 pour corps Ø126 ; quatre vis M5 à tête fraisée 90° vers FL10, têtes affleurantes ; il ne remplace pas une évaluation de stabilité.
 - Fichiers : [FL13.stl](FL13.stl), [FL13.step](FL13.step), [FL13.FCStd](FL13.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

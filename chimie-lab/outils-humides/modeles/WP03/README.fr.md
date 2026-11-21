@@ -11,7 +11,7 @@ Réaliser des rinçages successifs d'une sonde ou d'un petit outil avec trois li
 - Interface : Trois puits Ø26 mm, profondeur 36 mm ; repérer les postes et vérifier les contaminations croisées.
 - Fichiers : [WP03.stl](WP03.stl), [WP03.step](WP03.step), [WP03.FCStd](WP03.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

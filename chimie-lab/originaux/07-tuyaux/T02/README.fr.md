@@ -11,7 +11,7 @@ Guider six tuyaux par leur extérieur, sans les pincer ni obturer leur lumière.
 - Interface : Encoches ouvertes de 8.6 mm ; aucun contact direct avec le fluide.
 - Fichiers : [T02.stl](T02.stl), [T02.step](T02.step), [T02.FCStd](T02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

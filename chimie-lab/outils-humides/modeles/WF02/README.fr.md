@@ -11,7 +11,7 @@ Supporter un papier ou médium filtrant commercial dans WF01 ; la grille imprim�
 - Interface : Ø61,2 mm dans un logement Ø62 mm ; trous Ø2,5 mm. La zone perforée doit être entièrement couverte par le médium.
 - Fichiers : [WF02.stl](WF02.stl), [WF02.step](WF02.step), [WF02.FCStd](WF02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

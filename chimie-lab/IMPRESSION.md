@@ -2,7 +2,7 @@
 
 80 modèles originaux, chacun avec STL en millimètres, STEP et FCStd. Tous les encombrements STL sont inférieurs ou égaux à 235 mm sur chaque axe. Ils entrent individuellement dans le volume annoncé de 256 × 256 × 256 mm de la [Creator 5 Pro](https://eu.flashforge.com/products/flashforge-creator-5-pro). Le plateau FL10 fait 235 × 195 : il laisse 10,5 mm par côté sur l'axe de 235 si on le centre. Tenir compte de la bordure d'adhésion, des zones interdites et des contraintes du trancheur. Une station assemblée dépasse la hauteur d'une pièce et s'imprime en modules.
 
-Les profils, temps et masses ne sont pas mesurés : aucun G-code n'est fourni. Le volume de matière du catalogue est celui du solide CAO ; il n'est pas une consommation de bobine déterminée par tranchage. Aucun modèle n'a été imprimé physiquement.
+Les profils, temps et masses ne sont pas mesurés : aucun G-code n'est fourni. Le volume de matière du catalogue est celui du solide CAO ; il n'est pas une consommation de bobine déterminée par tranchage. À la publication initiale du 21 novembre 2026, les premières impressions restaient à réaliser. Les réglages seront actualisés à partir des retours d'impression.
 
 ## Ordre conseillé pour la filtration
 

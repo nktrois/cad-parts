@@ -11,7 +11,7 @@ Introduire et retirer des échantillons assez grands pour rester dans le panier 
 - Interface : Pieds de 4 mm ; oreilles ajourées ; ajustement prévu dans WB01. La flottabilité et la charge doivent être testées.
 - Fichiers : [WB02.stl](WB02.stl), [WB02.step](WB02.step), [WB02.FCStd](WB02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

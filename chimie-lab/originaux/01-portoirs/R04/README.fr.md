@@ -11,7 +11,7 @@ Maintenir 10 tubes commerciaux de 15 mL au repos, hors centrifugeuse.
 - Interface : Puits Ø 17.8 mm ; mesurer le diamètre extérieur du récipient.
 - Fichiers : [R04.stl](R04.stl), [R04.step](R04.step), [R04.FCStd](R04.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

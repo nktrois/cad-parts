@@ -11,7 +11,7 @@ Manipulation de poudres bénignes pour démonstration, uniquement après vérifi
 - Interface : Pas de poudre toxique, réactive, pharmaceutique ni analyse de traces.
 - Fichiers : [S02.stl](S02.stl), [S02.step](S02.step), [S02.FCStd](S02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

@@ -11,7 +11,7 @@ Organiser 8 flacons secs de diamètre extérieur voisin de 28 mm.
 - Interface : Puits Ø 28.8 mm ; mesurer le diamètre extérieur du récipient.
 - Fichiers : [R08.stl](R08.stl), [R08.step](R08.step), [R08.FCStd](R08.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

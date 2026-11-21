@@ -11,7 +11,7 @@ Colonne pour un petit entonnoir vide ou un accessoire léger, sans chauffe.
 - Interface : Tenons 19,9 mm en bas et 15,9 mm en haut.
 - Fichiers : [F02.stl](F02.stl), [F02.step](F02.step), [F02.FCStd](F02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

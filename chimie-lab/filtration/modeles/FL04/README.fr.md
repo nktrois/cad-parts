@@ -11,7 +11,7 @@
 - Interface : Ø72 / Ø50 × 2,2 mm ; pince la périphérie du papier entre les deux brides ; compression à qualifier.
 - Fichiers : [FL04.stl](FL04.stl), [FL04.step](FL04.step), [FL04.FCStd](FL04.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 

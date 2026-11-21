@@ -11,7 +11,7 @@ Soutenir un médium filtrant commercial avec la grille WF02 et collecter un éco
 - Interface : Portée de grille à z=60 mm ; passage de sortie Ø8 mm. Papier, absence de contournement et filtration à valider. Pas d'aspiration ni de pression.
 - Fichiers : [WF01.stl](WF01.stl), [WF01.step](WF01.step), [WF01.FCStd](WF01.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md)
 

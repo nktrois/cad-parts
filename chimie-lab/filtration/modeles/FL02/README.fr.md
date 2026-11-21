@@ -11,7 +11,7 @@ Chambre Ø60 mm, hauteur 50 mm ; bride commune avec FL01 ; ouvertures du filtre 
 - Interface : Chambre Ø60 mm, hauteur 50 mm ; bride commune avec FL01 ; ouvertures du filtre et du joint Ø50.
 - Fichiers : [FL02.stl](FL02.stl), [FL02.step](FL02.step), [FL02.FCStd](FL02.FCStd).
 
-Modèle original nktrois · [CC BY 4.0](../../../LICENSE). Contrôles numériques seulement ; aucune impression, étanchéité, tenue chimique, thermique ou au vide qualifiée.
+Modèle original nktrois · [CC BY 4.0](../../../LICENSE). État au dépôt initial (21 novembre 2026) : modèles contrôlés numériquement, avant les premières impressions. Les retours d'impression et les résultats des essais serviront à corriger les cotes, les ajustements et les réglages.
 
 [Plan d'impression](../../../IMPRESSION.md) · [Catalogue](../../../CATALOGUE.md) · [Montage de la station](../../../filtration/README.md)
 
