@@ -1,0 +1,21 @@
+{
+  "id": "WB01",
+  "title": "Open immersion bath",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "length": 190,
+    "width": 125,
+    "height": 70,
+    "wall": 4,
+    "bottom": 5
+  },
+  "dimensions_mm": [
+    190.0,
+    125.0,
+    70.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

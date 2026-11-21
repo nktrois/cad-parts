@@ -1,0 +1,19 @@
+{
+  "engine": "Blender Cycles CPU",
+  "samples": 16,
+  "resolution": [
+    960,
+    720
+  ],
+  "rendered": [
+    "FL06",
+    "FL07",
+    "FL08",
+    "FL13",
+    "station-gravitaire",
+    "filtre-eclate",
+    "recepteur-deux-ports",
+    "coupe-filtration"
+  ],
+  "source": "Actual printable STL meshes; PLY sections are non-printable illustrations."
+}

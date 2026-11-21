@@ -1,0 +1,28 @@
+{
+  "id": "G01",
+  "title": "4–20 mm diameter gauge",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameters": [
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20
+    ],
+    "thickness": 4
+  },
+  "dimensions_mm": [
+    138.0,
+    60.0,
+    4.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "C01",
+  "title": "Rack for twelve square cuvettes",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "nx": 4,
+    "ny": 3,
+    "side": 13.6,
+    "pitch": 22,
+    "height": 22,
+    "bottom": 4,
+    "edge": 7,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    93.6,
+    71.6,
+    22.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

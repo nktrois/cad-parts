@@ -1,0 +1,21 @@
+{
+  "id": "QF090",
+  "title": "Ø90 PP liquid funnel",
+  "generator": "../../scripts/build_recipients_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "top_inner_diameter": 90,
+    "stem_inner_diameter": 12,
+    "cone_height": 65,
+    "stem_height": 45,
+    "wall": 3.6
+  },
+  "dimensions_mm": [
+    97.2,
+    97.17,
+    110.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

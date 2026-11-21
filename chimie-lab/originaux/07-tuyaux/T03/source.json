@@ -1,0 +1,20 @@
+{
+  "id": "T03",
+  "title": "90-degree bend guide for Ø6.8 hose",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 6.8,
+    "radius": 30,
+    "height": 10,
+    "wall": 4
+  },
+  "dimensions_mm": [
+    37.4,
+    37.4,
+    10.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

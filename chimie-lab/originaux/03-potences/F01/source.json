@@ -1,0 +1,21 @@
+{
+  "id": "F01",
+  "title": "Light funnel stand base",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "length": 160,
+    "width": 110,
+    "height": 11,
+    "socket": 20.4,
+    "depth": 8
+  },
+  "dimensions_mm": [
+    160.0,
+    110.0,
+    11.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

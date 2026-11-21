@@ -1,0 +1,22 @@
+{
+  "id": "O01",
+  "title": "Rest for six spatulas",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "count": 6,
+    "diameter": 12,
+    "pitch": 22,
+    "length": 154,
+    "width": 75,
+    "height": 16
+  },
+  "dimensions_mm": [
+    154.0,
+    75.0,
+    15.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

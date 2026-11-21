@@ -1,0 +1,22 @@
+{
+  "id": "D03",
+  "title": "Rest for six glass rods",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "count": 6,
+    "diameter": 8.6,
+    "pitch": 20,
+    "length": 140,
+    "width": 70,
+    "height": 18
+  },
+  "dimensions_mm": [
+    140.0,
+    70.0,
+    17.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

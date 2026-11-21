@@ -1,0 +1,24 @@
+{
+  "id": "B02",
+  "title": "Tray for three Ø45 bottles",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 46,
+    "nx": 3,
+    "ny": 1,
+    "pitch": 60,
+    "height": 20,
+    "edge": 10,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    186.0,
+    66.0,
+    20.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

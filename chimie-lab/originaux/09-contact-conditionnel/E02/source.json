@@ -1,0 +1,22 @@
+{
+  "id": "E02",
+  "title": "Ø90 demonstration funnel",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 90,
+    "stem_od": 16,
+    "stem_id": 11,
+    "height": 60,
+    "stem_height": 16,
+    "wall": 2.4
+  },
+  "dimensions_mm": [
+    89.98,
+    89.99,
+    75.9
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

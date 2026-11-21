@@ -1,0 +1,21 @@
+{
+  "id": "QC090",
+  "title": "PP crystallizing dish — 90 mm inside diameter",
+  "generator": "../../scripts/build_recipients_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "inner_radius": 45.0,
+    "height": 28,
+    "wall": 3.6,
+    "bottom": 4.8,
+    "inside_fillet": 4
+  },
+  "dimensions_mm": [
+    97.2,
+    97.17,
+    28.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

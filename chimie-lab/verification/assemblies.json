@@ -1,0 +1,108 @@
+[
+  {
+    "id": "potence-entonnoir",
+    "parts": [
+      [
+        "F01",
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "F02",
+        [
+          18,
+          45,
+          3
+        ]
+      ],
+      [
+        "F04",
+        [
+          10,
+          20.5,
+          155.9
+        ]
+      ]
+    ],
+    "interference_check": [
+      {
+        "parts": [
+          "F01",
+          "F02"
+        ],
+        "intersection_mm3": 0.0
+      },
+      {
+        "parts": [
+          "F01",
+          "F04"
+        ],
+        "intersection_mm3": 0.0
+      },
+      {
+        "parts": [
+          "F02",
+          "F04"
+        ],
+        "intersection_mm3": 0.0
+      }
+    ],
+    "physical_fit_tested": false
+  },
+  {
+    "id": "porte-pipettes",
+    "parts": [
+      [
+        "P01",
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        "P02",
+        [
+          75,
+          52.5,
+          3
+        ]
+      ],
+      [
+        "P03",
+        [
+          5,
+          10.5,
+          200.9
+        ]
+      ]
+    ],
+    "interference_check": [
+      {
+        "parts": [
+          "P01",
+          "P02"
+        ],
+        "intersection_mm3": 0.0
+      },
+      {
+        "parts": [
+          "P01",
+          "P03"
+        ],
+        "intersection_mm3": 0.0
+      },
+      {
+        "parts": [
+          "P02",
+          "P03"
+        ],
+        "intersection_mm3": 0.0
+      }
+    ],
+    "physical_fit_tested": false
+  }
+]

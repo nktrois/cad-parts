@@ -1,0 +1,646 @@
+{
+  "checked": 80,
+  "parts": [
+    {
+      "id": "R01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 2.18329107
+    },
+    {
+      "id": "R02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 1e-08,
+      "comparison_tolerance_mm3": 3.4800097
+    },
+    {
+      "id": "R03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 3.33943359
+    },
+    {
+      "id": "R04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 2.34328558
+    },
+    {
+      "id": "R05",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 1e-08,
+      "comparison_tolerance_mm3": 4.48478898
+    },
+    {
+      "id": "R06",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.45504937
+    },
+    {
+      "id": "R07",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.96687542
+    },
+    {
+      "id": "R08",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 2.46146872
+    },
+    {
+      "id": "B01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.40900738
+    },
+    {
+      "id": "B02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.65396621
+    },
+    {
+      "id": "B03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.64972211
+    },
+    {
+      "id": "B04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.98278184
+    },
+    {
+      "id": "F01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.89505879
+    },
+    {
+      "id": "F02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.63150959
+    },
+    {
+      "id": "F03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.28629239
+    },
+    {
+      "id": "F04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.29435621
+    },
+    {
+      "id": "P01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 2.29655879
+    },
+    {
+      "id": "P02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.81150959
+    },
+    {
+      "id": "P03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.69966641
+    },
+    {
+      "id": "D01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.78742497
+    },
+    {
+      "id": "D02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.20412572
+    },
+    {
+      "id": "D03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.81790551
+    },
+    {
+      "id": "C01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.06931356
+    },
+    {
+      "id": "C02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.28222578
+    },
+    {
+      "id": "C03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.52362026
+    },
+    {
+      "id": "T01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.38102939
+    },
+    {
+      "id": "T02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.40460143
+    },
+    {
+      "id": "T03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "T04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "O01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.82157246
+    },
+    {
+      "id": "O02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.56747613
+    },
+    {
+      "id": "O03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.10941441
+    },
+    {
+      "id": "O04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.98969903
+    },
+    {
+      "id": "S01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "S02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.10405941
+    },
+    {
+      "id": "V01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.17094285
+    },
+    {
+      "id": "V02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.39751451
+    },
+    {
+      "id": "V03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.71833396
+    },
+    {
+      "id": "E01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 1e-08,
+      "comparison_tolerance_mm3": 0.14087076
+    },
+    {
+      "id": "E02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 6e-08,
+      "comparison_tolerance_mm3": 0.25265718
+    },
+    {
+      "id": "L01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "L02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "L03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "G01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.28239576
+    },
+    {
+      "id": "G02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.44589662
+    },
+    {
+      "id": "QB100",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.07140613,
+      "comparison_tolerance_mm3": 0.55133501
+    },
+    {
+      "id": "QB250",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.124252,
+      "comparison_tolerance_mm3": 0.97863046
+    },
+    {
+      "id": "QB500",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 3.198e-05,
+      "comparison_tolerance_mm3": 1.53885744
+    },
+    {
+      "id": "QB1000",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.7688302,
+      "comparison_tolerance_mm3": 2.45209849
+    },
+    {
+      "id": "QC090",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.60868674
+    },
+    {
+      "id": "QC140",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.36701572
+    },
+    {
+      "id": "QF060",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.2589687
+    },
+    {
+      "id": "QF090",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.48546944
+    },
+    {
+      "id": "QP080",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.35482262
+    },
+    {
+      "id": "QP110",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 2e-08,
+      "comparison_tolerance_mm3": 0.57526362
+    },
+    {
+      "id": "WB01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 2.75437079
+    },
+    {
+      "id": "WB02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.11920731
+    },
+    {
+      "id": "WB03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.42323284
+    },
+    {
+      "id": "WF01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 3e-08,
+      "comparison_tolerance_mm3": 0.40588803
+    },
+    {
+      "id": "WF02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "WP01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.2527364
+    },
+    {
+      "id": "WP02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.12752504
+    },
+    {
+      "id": "WP03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.33553739
+    },
+    {
+      "id": "FL01",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 3e-08,
+      "comparison_tolerance_mm3": 0.82479657
+    },
+    {
+      "id": "FL02",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.92192902
+    },
+    {
+      "id": "FL03",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "FL04",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "FL05",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.15826909
+    },
+    {
+      "id": "FL06",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 5.85079534
+    },
+    {
+      "id": "FL07",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.97953676
+    },
+    {
+      "id": "FL08",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.8621101
+    },
+    {
+      "id": "FL09",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.13345486
+    },
+    {
+      "id": "FL10",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 5.45417188
+    },
+    {
+      "id": "FL11",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 3.242e-05,
+      "comparison_tolerance_mm3": 0.50096578
+    },
+    {
+      "id": "FL12",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.83397865
+    },
+    {
+      "id": "FL13",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 1.09174728
+    },
+    {
+      "id": "FL14",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.20956252
+    },
+    {
+      "id": "FL15",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    },
+    {
+      "id": "FL16",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.18048014
+    },
+    {
+      "id": "FL17",
+      "step_valid": true,
+      "fcstd_valid": true,
+      "one_solid": true,
+      "volume_difference_mm3": 0.0,
+      "comparison_tolerance_mm3": 0.1
+    }
+  ],
+  "physical_tests": false
+}

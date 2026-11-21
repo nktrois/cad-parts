@@ -1,1 +1,6 @@
 *.bak
+__pycache__/
+*.pyc
+*.FCStd1
+*.FCBak
+*.blend1

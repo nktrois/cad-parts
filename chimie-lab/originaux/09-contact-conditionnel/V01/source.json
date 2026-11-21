@@ -1,0 +1,20 @@
+{
+  "id": "V01",
+  "title": "Ø40 × 50 prototype cup",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 40,
+    "height": 50,
+    "wall": 2.4,
+    "bottom": 3
+  },
+  "dimensions_mm": [
+    39.991,
+    39.995,
+    50.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

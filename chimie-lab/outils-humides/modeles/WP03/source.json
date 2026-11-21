@@ -1,0 +1,20 @@
+{
+  "id": "WP03",
+  "title": "Three-stage rinse block",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "length": 104,
+    "width": 44,
+    "height": 42,
+    "well_diameter": 26
+  },
+  "dimensions_mm": [
+    104.0,
+    44.0,
+    42.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

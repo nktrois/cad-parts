@@ -1,0 +1,21 @@
+{
+  "id": "T02",
+  "title": "Organizer for six Ø8.6 hoses",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "count": 6,
+    "diameter": 8.6,
+    "pitch": 15.6,
+    "width": 40,
+    "height": 14
+  },
+  "dimensions_mm": [
+    102.6,
+    40.0,
+    14.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

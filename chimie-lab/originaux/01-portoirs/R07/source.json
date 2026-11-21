@@ -1,0 +1,24 @@
+{
+  "id": "R07",
+  "title": "12-position rack for Ø20 vials",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 20.8,
+    "nx": 4,
+    "ny": 3,
+    "pitch": 28,
+    "height": 27,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    118.8,
+    90.8,
+    27.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

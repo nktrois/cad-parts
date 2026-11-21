@@ -1,0 +1,24 @@
+{
+  "id": "R05",
+  "title": "8-position rack for 50 mL conical tubes",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 30.8,
+    "nx": 4,
+    "ny": 2,
+    "pitch": 39,
+    "height": 56,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    161.8,
+    83.8,
+    56.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "B04",
+  "title": "Stand for Ø90 glassware",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 91,
+    "wall": 4,
+    "bottom": 5,
+    "ring_height": 15,
+    "margin": 18
+  },
+  "dimensions_mm": [
+    127.0,
+    127.0,
+    19.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

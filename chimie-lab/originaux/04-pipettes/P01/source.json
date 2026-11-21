@@ -1,0 +1,22 @@
+{
+  "id": "P01",
+  "title": "Pipette stand base",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "length": 170,
+    "width": 125,
+    "height": 11,
+    "socket": 20.4,
+    "depth": 8,
+    "socket_x": 85
+  },
+  "dimensions_mm": [
+    170.0,
+    125.0,
+    11.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

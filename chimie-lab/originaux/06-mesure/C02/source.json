@@ -1,0 +1,24 @@
+{
+  "id": "C02",
+  "title": "Ø90 open probe support plate",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 90,
+    "thickness": 5,
+    "holes": [
+      6.5,
+      8.5,
+      12.5,
+      4.5
+    ]
+  },
+  "dimensions_mm": [
+    90.0,
+    89.802,
+    5.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

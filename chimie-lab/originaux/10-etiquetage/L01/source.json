@@ -1,0 +1,21 @@
+{
+  "id": "L01",
+  "title": "Ø24 bottle-neck label",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 24,
+    "wall": 4,
+    "thickness": 3,
+    "tab_length": 42,
+    "tab_width": 22
+  },
+  "dimensions_mm": [
+    74.0,
+    31.998,
+    3.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

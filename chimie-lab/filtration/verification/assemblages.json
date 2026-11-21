@@ -1,0 +1,283 @@
+{
+  "assemblies": [
+    {
+      "id": "station-gravitaire",
+      "parts": [
+        [
+          "FL10",
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        [
+          "FL11",
+          [
+            8,
+            67.5,
+            12
+          ]
+        ],
+        [
+          "FL13",
+          [
+            140,
+            97.5,
+            12
+          ]
+        ],
+        [
+          "FL06",
+          [
+            140,
+            97.5,
+            15
+          ]
+        ],
+        [
+          "FL09",
+          [
+            140,
+            97.5,
+            135
+          ]
+        ],
+        [
+          "FL07",
+          [
+            140,
+            97.5,
+            138
+          ]
+        ],
+        [
+          "FL05",
+          [
+            140,
+            97.5,
+            156
+          ]
+        ],
+        [
+          "FL01",
+          [
+            140,
+            97.5,
+            126
+          ]
+        ],
+        [
+          "FL03",
+          [
+            140,
+            97.5,
+            215
+          ]
+        ],
+        [
+          "FL04",
+          [
+            140,
+            97.5,
+            219
+          ]
+        ],
+        [
+          "FL02",
+          [
+            140,
+            97.5,
+            221.2
+          ]
+        ],
+        [
+          "FL12",
+          [
+            8,
+            38.5,
+            201
+          ]
+        ]
+      ],
+      "checks": [
+        {
+          "parts": [
+            "FL07",
+            "FL05"
+          ],
+          "intersection_mm3": 166.304159,
+          "expected_elastic_interference": true,
+          "reason": "Interférence diamétrale volontaire du cône TPU : 0,2 mm nominal."
+        },
+        {
+          "parts": [
+            "FL05",
+            "FL01"
+          ],
+          "intersection_mm3": 207.284797,
+          "expected_elastic_interference": true,
+          "reason": "Interférence diamétrale volontaire TPU/tige : 0,4 mm nominal."
+        }
+      ],
+      "structural_or_leak_test_performed": false
+    },
+    {
+      "id": "filtre-eclate",
+      "parts": [
+        [
+          "FL06",
+          [
+            140,
+            97.5,
+            15
+          ]
+        ],
+        [
+          "FL09",
+          [
+            140,
+            97.5,
+            165
+          ]
+        ],
+        [
+          "FL07",
+          [
+            140,
+            97.5,
+            198
+          ]
+        ],
+        [
+          "FL05",
+          [
+            140,
+            97.5,
+            261
+          ]
+        ],
+        [
+          "FL01",
+          [
+            140,
+            97.5,
+            316
+          ]
+        ],
+        [
+          "FL03",
+          [
+            140,
+            97.5,
+            445
+          ]
+        ],
+        [
+          "FL04",
+          [
+            140,
+            97.5,
+            469
+          ]
+        ],
+        [
+          "FL02",
+          [
+            140,
+            97.5,
+            496.2
+          ]
+        ]
+      ],
+      "checks": [],
+      "structural_or_leak_test_performed": false
+    },
+    {
+      "id": "recepteur-deux-ports",
+      "parts": [
+        [
+          "FL10",
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        [
+          "FL13",
+          [
+            140,
+            97.5,
+            12
+          ]
+        ],
+        [
+          "FL06",
+          [
+            140,
+            97.5,
+            15
+          ]
+        ],
+        [
+          "FL09",
+          [
+            140,
+            97.5,
+            135
+          ]
+        ],
+        [
+          "FL08",
+          [
+            140,
+            97.5,
+            138
+          ]
+        ]
+      ],
+      "checks": [],
+      "structural_or_leak_test_performed": false
+    }
+  ],
+  "reference_rod": {
+    "diameter": 12,
+    "length": 300
+  },
+  "interface_checks": {
+    "stem_od_mm": 16,
+    "bung_hole_mm": 15.6,
+    "nominal_diametral_interference_mm": 0.4,
+    "bung_outer_d_mm": [
+      29.8,
+      34.2
+    ],
+    "neck_inner_d_mm": [
+      29.6,
+      34
+    ],
+    "expected_cone_diametral_interference_mm": 0.2,
+    "filter_bolt_count": 6,
+    "filter_bolt_circle_mm": 88,
+    "receiver_bolt_count": 6,
+    "receiver_bolt_circle_mm": 140,
+    "filter_disc_diameter_mm": 55.2,
+    "pocket_diameter_mm": 56
+  },
+  "hardware_clearance": {
+    "receiver_washer_od_mm": 12,
+    "receiver_washer_to_body_radial_clearance_mm": 1.0,
+    "receiver_washer_to_flange_edge_mm": 1.0,
+    "receiver_gasket_to_bolt_hole_gap_mm": 1.7000000000000028,
+    "cradle_countersink_top_d_mm": 11.6,
+    "cradle_countersink_depth_mm": 3,
+    "intended_m5_flat_head_d_mm": 10,
+    "intended_m5_flat_head_height_mm": 2.8,
+    "support_arm_nut_access_d_mm": 12,
+    "intended_m4_washer_od_mm": 9,
+    "commercial_fasteners_modelled_with_threads": false
+  },
+  "physically_tested": false,
+  "vacuum_rating_assigned": false
+}

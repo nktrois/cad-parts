@@ -1,0 +1,21 @@
+{
+  "id": "WB03",
+  "title": "Immersible specimen holder",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "count": 6,
+    "gap": 3.2,
+    "fin": 3,
+    "length": 100,
+    "width": 65
+  },
+  "dimensions_mm": [
+    100.0,
+    65.0,
+    18.88
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

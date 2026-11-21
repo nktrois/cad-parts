@@ -1,0 +1,24 @@
+{
+  "id": "R03",
+  "title": "12-position rack for Ø20 tubes",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 20.7,
+    "nx": 4,
+    "ny": 3,
+    "pitch": 29,
+    "height": 44,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    121.7,
+    92.7,
+    44.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

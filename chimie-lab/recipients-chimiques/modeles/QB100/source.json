@@ -1,0 +1,23 @@
+{
+  "id": "QB100",
+  "title": "PP pouring beaker — nominal 100 mL",
+  "generator": "../../scripts/build_recipients_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "inner_radius": 25,
+    "height": 75,
+    "wall": 3.6,
+    "bottom": 4.8,
+    "inside_fillet": 3,
+    "spout_height": 12,
+    "spout_extension": 7
+  },
+  "dimensions_mm": [
+    64.2,
+    57.2,
+    75.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "QB1000",
+  "title": "PP pouring beaker — nominal 1000 mL",
+  "generator": "../../scripts/build_recipients_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "inner_radius": 55,
+    "height": 155,
+    "wall": 3.6,
+    "bottom": 4.8,
+    "inside_fillet": 3,
+    "spout_height": 12,
+    "spout_extension": 7
+  },
+  "dimensions_mm": [
+    124.2,
+    117.2,
+    155.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

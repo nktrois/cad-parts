@@ -1,0 +1,18 @@
+{
+  "id": "WF02",
+  "title": "Removable filter support grid",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "diameter": 61.2,
+    "thickness": 3
+  },
+  "dimensions_mm": [
+    61.186,
+    61.193,
+    3.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "D01",
+  "title": "Drying rack for eight slides or plates",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "slots": 8,
+    "gap": 5,
+    "fin": 3,
+    "length": 90,
+    "height": 24,
+    "base": 4
+  },
+  "dimensions_mm": [
+    79.0,
+    90.0,
+    27.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

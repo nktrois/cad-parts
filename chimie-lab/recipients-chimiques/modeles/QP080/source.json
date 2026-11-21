@@ -1,0 +1,21 @@
+{
+  "id": "QP080",
+  "title": "Ø80 PP powder funnel",
+  "generator": "../../scripts/build_recipients_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "top_inner_diameter": 80,
+    "stem_inner_diameter": 24,
+    "cone_height": 44,
+    "stem_height": 24,
+    "wall": 3.6
+  },
+  "dimensions_mm": [
+    87.2,
+    87.173,
+    68.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

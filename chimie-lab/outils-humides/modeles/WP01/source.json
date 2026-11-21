@@ -1,0 +1,21 @@
+{
+  "id": "WP01",
+  "title": "Pouring weigh boat",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "length": 85,
+    "width": 55,
+    "height": 18,
+    "wall": 2.8,
+    "bottom": 3.2
+  },
+  "dimensions_mm": [
+    85.0,
+    55.0,
+    18.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

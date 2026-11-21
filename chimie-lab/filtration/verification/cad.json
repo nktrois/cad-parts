@@ -1,0 +1,124 @@
+{
+  "parts": [
+    {
+      "id": "FL01",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL02",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL03",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL04",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL05",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL06",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL07",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL08",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL09",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL10",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL11",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL12",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL13",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL14",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL15",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL16",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    },
+    {
+      "id": "FL17",
+      "solid_valid": true,
+      "mesh_solid": true,
+      "step_readback": true,
+      "fcstd_readback": true
+    }
+  ],
+  "physically_tested": false
+}

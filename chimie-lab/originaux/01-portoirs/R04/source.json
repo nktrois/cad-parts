@@ -1,0 +1,24 @@
+{
+  "id": "R04",
+  "title": "10-position rack for 15 mL conical tubes",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 17.8,
+    "nx": 5,
+    "ny": 2,
+    "pitch": 26,
+    "height": 42,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    135.8,
+    57.8,
+    42.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

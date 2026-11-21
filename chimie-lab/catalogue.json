@@ -1,0 +1,2541 @@
+{
+  "units": "mm",
+  "author": "nktrois",
+  "license": "CC-BY-4.0",
+  "original_designs_only": true,
+  "parts": [
+    {
+      "id": "R01",
+      "title": "Portoir 18 tubes Ø12",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 12.6,
+        "nx": 6,
+        "ny": 3,
+        "pitch": 20,
+        "height": 34,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Ranger verticalement 18 tubes secs de diamètre extérieur voisin de 12 mm.",
+      "fit": "Puits Ø 12.6 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R01",
+      "dimensions_mm": [
+        126.6,
+        66.6,
+        34.0
+      ],
+      "volume_material_mm3": 218329.107,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R02",
+      "title": "Portoir 18 tubes Ø16",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 16.6,
+        "nx": 6,
+        "ny": 3,
+        "pitch": 24,
+        "height": 42,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Ranger 18 tubes secs de diamètre extérieur voisin de 16 mm.",
+      "fit": "Puits Ø 16.6 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R02",
+      "dimensions_mm": [
+        150.6,
+        78.6,
+        42.0
+      ],
+      "volume_material_mm3": 348000.97,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R03",
+      "title": "Portoir 12 tubes Ø20",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 20.7,
+        "nx": 4,
+        "ny": 3,
+        "pitch": 29,
+        "height": 44,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Ranger 12 tubes secs de diamètre extérieur voisin de 20 mm.",
+      "fit": "Puits Ø 20.7 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R03",
+      "dimensions_mm": [
+        121.7,
+        92.7,
+        44.0
+      ],
+      "volume_material_mm3": 333943.359,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R04",
+      "title": "Portoir 10 tubes coniques 15 mL",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 17.8,
+        "nx": 5,
+        "ny": 2,
+        "pitch": 26,
+        "height": 42,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Maintenir 10 tubes commerciaux de 15 mL au repos, hors centrifugeuse.",
+      "fit": "Puits Ø 17.8 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R04",
+      "dimensions_mm": [
+        135.8,
+        57.8,
+        42.0
+      ],
+      "volume_material_mm3": 234328.558,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R05",
+      "title": "Portoir 8 tubes coniques 50 mL",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 30.8,
+        "nx": 4,
+        "ny": 2,
+        "pitch": 39,
+        "height": 56,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Maintenir 8 tubes commerciaux de 50 mL au repos, hors centrifugeuse.",
+      "fit": "Puits Ø 30.8 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R05",
+      "dimensions_mm": [
+        161.8,
+        83.8,
+        56.0
+      ],
+      "volume_material_mm3": 448478.898,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R06",
+      "title": "Portoir 24 microtubes",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 11.6,
+        "nx": 6,
+        "ny": 4,
+        "pitch": 17,
+        "height": 23,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Ranger 24 microtubes commerciaux ; vérifier la géométrie de leur collerette.",
+      "fit": "Puits Ø 11.6 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R06",
+      "dimensions_mm": [
+        110.6,
+        76.6,
+        23.0
+      ],
+      "volume_material_mm3": 145504.937,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R07",
+      "title": "Portoir 12 flacons Ø20",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 20.8,
+        "nx": 4,
+        "ny": 3,
+        "pitch": 28,
+        "height": 27,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Organiser 12 flacons secs de petit diamètre.",
+      "fit": "Puits Ø 20.8 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R07",
+      "dimensions_mm": [
+        118.8,
+        90.8,
+        27.0
+      ],
+      "volume_material_mm3": 196687.542,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "R08",
+      "title": "Portoir 8 flacons Ø28",
+      "family": "01-portoirs",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 28.8,
+        "nx": 4,
+        "ny": 2,
+        "pitch": 37,
+        "height": 32,
+        "edge": 7,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Organiser 8 flacons secs de diamètre extérieur voisin de 28 mm.",
+      "fit": "Puits Ø 28.8 mm ; mesurer le diamètre extérieur du récipient.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/01-portoirs/R08",
+      "dimensions_mm": [
+        153.8,
+        79.8,
+        32.0
+      ],
+      "volume_material_mm3": 246146.872,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "B01",
+      "title": "Plateau 4 flacons Ø32",
+      "family": "02-flacons",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 33,
+        "nx": 2,
+        "ny": 2,
+        "pitch": 46,
+        "height": 20,
+        "edge": 10,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Positionner des flacons commerciaux fermés sur la paillasse ; ce plateau n'est pas un bac de rétention.",
+      "fit": "Logements Ø 33 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/02-flacons/B01",
+      "dimensions_mm": [
+        99.0,
+        99.0,
+        20.0
+      ],
+      "volume_material_mm3": 140900.738,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "B02",
+      "title": "Plateau 3 flacons Ø45",
+      "family": "02-flacons",
+      "kind": "rack",
+      "parameters": {
+        "diameter": 46,
+        "nx": 3,
+        "ny": 1,
+        "pitch": 60,
+        "height": 20,
+        "edge": 10,
+        "bottom": 4,
+        "drain": 3.2
+      },
+      "usage": "Positionner des flacons commerciaux fermés sur la paillasse ; ce plateau n'est pas un bac de rétention.",
+      "fit": "Logements Ø 46 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/02-flacons/B02",
+      "dimensions_mm": [
+        186.0,
+        66.0,
+        20.0
+      ],
+      "volume_material_mm3": 165396.621,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "B03",
+      "title": "Socle flacon Ø65",
+      "family": "02-flacons",
+      "kind": "bottle_base",
+      "parameters": {
+        "diameter": 66,
+        "wall": 4,
+        "bottom": 5,
+        "ring_height": 15,
+        "margin": 18
+      },
+      "usage": "Positionner un récipient commercial à température ambiante ; aucune garantie contre le renversement.",
+      "fit": "Diamètre intérieur du collier : 66 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/02-flacons/B03",
+      "dimensions_mm": [
+        102.0,
+        102.0,
+        19.9
+      ],
+      "volume_material_mm3": 64972.211,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "B04",
+      "title": "Socle verrerie Ø90",
+      "family": "02-flacons",
+      "kind": "bottle_base",
+      "parameters": {
+        "diameter": 91,
+        "wall": 4,
+        "bottom": 5,
+        "ring_height": 15,
+        "margin": 18
+      },
+      "usage": "Positionner un récipient commercial à température ambiante ; aucune garantie contre le renversement.",
+      "fit": "Diamètre intérieur du collier : 91 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/02-flacons/B04",
+      "dimensions_mm": [
+        127.0,
+        127.0,
+        19.9
+      ],
+      "volume_material_mm3": 98278.184,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "F01",
+      "title": "Socle de potence légère",
+      "family": "03-potences",
+      "kind": "stand_base",
+      "parameters": {
+        "length": 160,
+        "width": 110,
+        "height": 11,
+        "socket": 20.4,
+        "depth": 8
+      },
+      "usage": "Socle pour le support léger d'entonnoir F02/F03/F04 ; pas une potence de laboratoire porteuse.",
+      "fit": "Emboîtement carré 20,4 mm ; assemblage F01 + F02 + F03 ou F04.",
+      "material": "PETG",
+      "assembly": "potence-entonnoir",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/03-potences/F01",
+      "dimensions_mm": [
+        160.0,
+        110.0,
+        11.0
+      ],
+      "volume_material_mm3": 189505.879,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "F02",
+      "title": "Colonne de potence 145 mm",
+      "family": "03-potences",
+      "kind": "stand_post",
+      "parameters": {
+        "side": 20,
+        "height": 145,
+        "bottom_tenon": 19.9,
+        "top_tenon": 15.9,
+        "tenon_height": 8
+      },
+      "usage": "Colonne pour un petit entonnoir vide ou un accessoire léger, sans chauffe.",
+      "fit": "Tenons 19,9 mm en bas et 15,9 mm en haut.",
+      "material": "PETG",
+      "assembly": "potence-entonnoir",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/03-potences/F02",
+      "dimensions_mm": [
+        20.0,
+        20.0,
+        160.9
+      ],
+      "volume_material_mm3": 63150.959,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "F03",
+      "title": "Bras porte-entonnoir Ø35",
+      "family": "03-potences",
+      "kind": "funnel_arm",
+      "parameters": {
+        "diameter": 35,
+        "wall": 7,
+        "thickness": 8,
+        "socket": 16.4
+      },
+      "usage": "Maintenir un petit entonnoir commercial vide ; vérifier la stabilité avec le récipient récepteur avant tout usage.",
+      "fit": "Passage central Ø 35 mm ; montage sur le tenon supérieur de F02.",
+      "material": "PETG",
+      "assembly": "potence-entonnoir",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/03-potences/F03",
+      "dimensions_mm": [
+        129.5,
+        48.979,
+        8.0
+      ],
+      "volume_material_mm3": 28629.239,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "F04",
+      "title": "Bras porte-entonnoir Ø55",
+      "family": "03-potences",
+      "kind": "funnel_arm",
+      "parameters": {
+        "diameter": 55,
+        "wall": 7,
+        "thickness": 8,
+        "socket": 16.4
+      },
+      "usage": "Maintenir un petit entonnoir commercial vide ; vérifier la stabilité avec le récipient récepteur avant tout usage.",
+      "fit": "Passage central Ø 55 mm ; montage sur le tenon supérieur de F02.",
+      "material": "PETG",
+      "assembly": "potence-entonnoir",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/03-potences/F04",
+      "dimensions_mm": [
+        139.5,
+        68.979,
+        8.0
+      ],
+      "volume_material_mm3": 29435.621,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "P01",
+      "title": "Socle porte-pipettes",
+      "family": "04-pipettes",
+      "kind": "stand_base",
+      "parameters": {
+        "length": 170,
+        "width": 125,
+        "height": 11,
+        "socket": 20.4,
+        "depth": 8,
+        "socket_x": 85
+      },
+      "usage": "Base du porte-pipettes P01/P02/P03 ; rangement à sec uniquement.",
+      "fit": "Assemblage P01 + P02 + P03.",
+      "material": "PETG",
+      "assembly": "porte-pipettes",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/04-pipettes/P01",
+      "dimensions_mm": [
+        170.0,
+        125.0,
+        11.0
+      ],
+      "volume_material_mm3": 229655.879,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "P02",
+      "title": "Colonne porte-pipettes 190 mm",
+      "family": "04-pipettes",
+      "kind": "stand_post",
+      "parameters": {
+        "side": 20,
+        "height": 190,
+        "bottom_tenon": 19.9,
+        "top_tenon": 15.9,
+        "tenon_height": 8
+      },
+      "usage": "Colonne du porte-pipettes, sans charge instrumentale lourde.",
+      "fit": "Même interface que F02 ; hauteur totale 206 mm.",
+      "material": "PETG",
+      "assembly": "porte-pipettes",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/04-pipettes/P02",
+      "dimensions_mm": [
+        20.0,
+        20.0,
+        205.9
+      ],
+      "volume_material_mm3": 81150.959,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "P03",
+      "title": "Peigne 5 pipettes",
+      "family": "04-pipettes",
+      "kind": "pipette_comb",
+      "parameters": {
+        "length": 160,
+        "width": 65,
+        "thickness": 8,
+        "slot": 10.5,
+        "slots": 5,
+        "socket": 16.4
+      },
+      "usage": "Suspendre 5 pipettes possédant un épaulement plus large que les encoches ; vérifier chaque pipette.",
+      "fit": "Encoches ouvertes de 10,5 mm ; ne convient pas à toutes les marques.",
+      "material": "PETG",
+      "assembly": "porte-pipettes",
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/04-pipettes/P03",
+      "dimensions_mm": [
+        160.0,
+        65.0,
+        8.0
+      ],
+      "volume_material_mm3": 69966.641,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "D01",
+      "title": "Égouttoir 8 lames ou plaques",
+      "family": "05-sechage",
+      "kind": "drying_rack",
+      "parameters": {
+        "slots": 8,
+        "gap": 5,
+        "fin": 3,
+        "length": 90,
+        "height": 24,
+        "base": 4
+      },
+      "usage": "Sécher des lames, petites plaques ou accessoires déjà rincés à l'eau ; hors verrerie chaude.",
+      "fit": "8 intervalles de 5 mm ; aucun contact avec des déchets chimiques dangereux.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/05-sechage/D01",
+      "dimensions_mm": [
+        79.0,
+        90.0,
+        27.9
+      ],
+      "volume_material_mm3": 78742.497,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "D02",
+      "title": "Égouttoir 6 couvercles",
+      "family": "05-sechage",
+      "kind": "drying_rack",
+      "parameters": {
+        "slots": 6,
+        "gap": 15,
+        "fin": 3,
+        "length": 100,
+        "height": 32,
+        "base": 5
+      },
+      "usage": "Ranger ou égoutter 6 couvercles et verres de montre déjà rincés à l'eau.",
+      "fit": "6 intervalles de 15 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/05-sechage/D02",
+      "dimensions_mm": [
+        123.0,
+        100.0,
+        36.9
+      ],
+      "volume_material_mm3": 120412.572,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "D03",
+      "title": "Support 6 tiges de verre",
+      "family": "05-sechage",
+      "kind": "rod_rest",
+      "parameters": {
+        "count": 6,
+        "diameter": 8.6,
+        "pitch": 20,
+        "length": 140,
+        "width": 70,
+        "height": 18
+      },
+      "usage": "Poser horizontalement des tiges de verre propres et froides.",
+      "fit": "Gorges Ø 8,6 mm, entraxe 20 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/05-sechage/D03",
+      "dimensions_mm": [
+        140.0,
+        70.0,
+        17.9
+      ],
+      "volume_material_mm3": 81790.551,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "C01",
+      "title": "Portoir 12 cuvettes carrées",
+      "family": "06-mesure",
+      "kind": "square_rack",
+      "parameters": {
+        "nx": 4,
+        "ny": 3,
+        "side": 13.6,
+        "pitch": 22,
+        "height": 22,
+        "bottom": 4,
+        "edge": 7,
+        "drain": 3.2
+      },
+      "usage": "Ranger des cuvettes commerciales carrées ; éviter les faces optiques dans les manipulations.",
+      "fit": "Logements carrés 13,6 mm, à ajuster à tes cuvettes.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/06-mesure/C01",
+      "dimensions_mm": [
+        93.6,
+        71.6,
+        22.0
+      ],
+      "volume_material_mm3": 106931.356,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "C02",
+      "title": "Plaque ouverte porte-sondes Ø90",
+      "family": "06-mesure",
+      "kind": "probe_plate",
+      "parameters": {
+        "diameter": 90,
+        "thickness": 5,
+        "holes": [
+          6.5,
+          8.5,
+          12.5,
+          4.5
+        ]
+      },
+      "usage": "Positionner des sondes sur un récipient à froid après vérification des dimensions et de la compatibilité ; plaque ouverte non étanche.",
+      "fit": "Passages Ø 6,5 / 8,5 / 12,5 / 4,5 mm et évent central. Ne sert pas de fermeture sous pression.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/06-mesure/C02",
+      "dimensions_mm": [
+        90.0,
+        89.802,
+        5.0
+      ],
+      "volume_material_mm3": 28222.578,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "C03",
+      "title": "Plaque ouverte porte-sondes Ø120",
+      "family": "06-mesure",
+      "kind": "probe_plate",
+      "parameters": {
+        "diameter": 120,
+        "thickness": 5,
+        "holes": [
+          6.5,
+          8.5,
+          12.5,
+          4.5
+        ]
+      },
+      "usage": "Positionner des sondes sur un récipient à froid après vérification des dimensions et de la compatibilité ; plaque ouverte non étanche.",
+      "fit": "Passages Ø 6,5 / 8,5 / 12,5 / 4,5 mm et évent central. Ne sert pas de fermeture sous pression.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/06-mesure/C03",
+      "dimensions_mm": [
+        119.993,
+        119.852,
+        5.0
+      ],
+      "volume_material_mm3": 52362.026,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "T01",
+      "title": "Organiseur 6 tuyaux Ø6.6",
+      "family": "07-tuyaux",
+      "kind": "tube_comb",
+      "parameters": {
+        "count": 6,
+        "diameter": 6.6,
+        "pitch": 13.6,
+        "width": 40,
+        "height": 14
+      },
+      "usage": "Guider six tuyaux par leur extérieur, sans les pincer ni obturer leur lumière.",
+      "fit": "Encoches ouvertes de 6.6 mm ; aucun contact direct avec le fluide.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/07-tuyaux/T01",
+      "dimensions_mm": [
+        90.6,
+        40.0,
+        14.0
+      ],
+      "volume_material_mm3": 38102.939,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "T02",
+      "title": "Organiseur 6 tuyaux Ø8.6",
+      "family": "07-tuyaux",
+      "kind": "tube_comb",
+      "parameters": {
+        "count": 6,
+        "diameter": 8.6,
+        "pitch": 15.6,
+        "width": 40,
+        "height": 14
+      },
+      "usage": "Guider six tuyaux par leur extérieur, sans les pincer ni obturer leur lumière.",
+      "fit": "Encoches ouvertes de 8.6 mm ; aucun contact direct avec le fluide.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/07-tuyaux/T02",
+      "dimensions_mm": [
+        102.6,
+        40.0,
+        14.0
+      ],
+      "volume_material_mm3": 40460.143,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "T03",
+      "title": "Guide courbe 90° tuyau Ø6.8",
+      "family": "07-tuyaux",
+      "kind": "tube_bend",
+      "parameters": {
+        "diameter": 6.8,
+        "radius": 30,
+        "height": 10,
+        "wall": 4
+      },
+      "usage": "Accompagner un tuyau souple dans un virage à 90°, sans fonction de raccord ni d'étanchéité.",
+      "fit": "Rayon de ligne médiane 30 mm ; vérifier le rayon de courbure minimal du tuyau.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/07-tuyaux/T03",
+      "dimensions_mm": [
+        37.4,
+        37.4,
+        10.0
+      ],
+      "volume_material_mm3": 6118.641,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "T04",
+      "title": "Guide courbe 90° tuyau Ø10.8",
+      "family": "07-tuyaux",
+      "kind": "tube_bend",
+      "parameters": {
+        "diameter": 10.8,
+        "radius": 40,
+        "height": 10,
+        "wall": 4
+      },
+      "usage": "Accompagner un tuyau souple dans un virage à 90°, sans fonction de raccord ni d'étanchéité.",
+      "fit": "Rayon de ligne médiane 40 mm ; vérifier le rayon de courbure minimal du tuyau.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/07-tuyaux/T04",
+      "dimensions_mm": [
+        49.4,
+        49.4,
+        10.0
+      ],
+      "volume_material_mm3": 8934.412,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "O01",
+      "title": "Repose 6 spatules",
+      "family": "08-rangement",
+      "kind": "rod_rest",
+      "parameters": {
+        "count": 6,
+        "diameter": 12,
+        "pitch": 22,
+        "length": 154,
+        "width": 75,
+        "height": 16
+      },
+      "usage": "Poser des spatules propres et froides ; support de rangement, pas zone de pesée analytique.",
+      "fit": "Six gorges ouvertes de 12 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/08-rangement/O01",
+      "dimensions_mm": [
+        154.0,
+        75.0,
+        15.9
+      ],
+      "volume_material_mm3": 82157.246,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "O02",
+      "title": "Repose 3 thermomètres",
+      "family": "08-rangement",
+      "kind": "rod_rest",
+      "parameters": {
+        "count": 3,
+        "diameter": 7,
+        "pitch": 25,
+        "length": 96,
+        "width": 80,
+        "height": 16
+      },
+      "usage": "Ranger trois thermomètres ou sondes propres et froids.",
+      "fit": "Trois gorges ouvertes de 7 mm.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/08-rangement/O02",
+      "dimensions_mm": [
+        96.0,
+        80.0,
+        15.9
+      ],
+      "volume_material_mm3": 56747.613,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "O03",
+      "title": "Organiseur 3 compartiments",
+      "family": "08-rangement",
+      "kind": "tray",
+      "parameters": {
+        "length": 180,
+        "width": 120,
+        "height": 22,
+        "wall": 3,
+        "bottom": 3,
+        "dividers": 2
+      },
+      "usage": "Ranger bouchons, pinces et petites pièces secs. Ce plateau n'est pas une rétention de sécurité.",
+      "fit": "",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/08-rangement/O03",
+      "dimensions_mm": [
+        180.0,
+        120.0,
+        22.0
+      ],
+      "volume_material_mm3": 110941.441,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "O04",
+      "title": "Bac de rangement long",
+      "family": "08-rangement",
+      "kind": "tray",
+      "parameters": {
+        "length": 225,
+        "width": 85,
+        "height": 26,
+        "wall": 3,
+        "bottom": 3,
+        "dividers": 0
+      },
+      "usage": "Ranger spatules et petites pièces secs, sans chauffage ni produits dangereux.",
+      "fit": "",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/08-rangement/O04",
+      "dimensions_mm": [
+        225.0,
+        85.0,
+        26.0
+      ],
+      "volume_material_mm3": 98969.903,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "S01",
+      "title": "Petite pelle Ø25 pour démonstration",
+      "family": "09-contact-conditionnel",
+      "kind": "scoop",
+      "parameters": {
+        "diameter": 25,
+        "height": 12,
+        "wall": 2.4,
+        "handle": 90
+      },
+      "usage": "Manipulation de poudres bénignes pour démonstration, uniquement après vérification de compatibilité et de propreté ; ne mesure pas un volume étalonné.",
+      "fit": "Pas de poudre toxique, réactive, pharmaceutique ni analyse de traces.",
+      "material": "PP compatible avec le produit, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/S01",
+      "dimensions_mm": [
+        115.0,
+        24.998,
+        12.0
+      ],
+      "volume_material_mm3": 6071.87,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le produit, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "S02",
+      "title": "Petite pelle Ø40 pour démonstration",
+      "family": "09-contact-conditionnel",
+      "kind": "scoop",
+      "parameters": {
+        "diameter": 40,
+        "height": 17,
+        "wall": 2.4,
+        "handle": 90
+      },
+      "usage": "Manipulation de poudres bénignes pour démonstration, uniquement après vérification de compatibilité et de propreté ; ne mesure pas un volume étalonné.",
+      "fit": "Pas de poudre toxique, réactive, pharmaceutique ni analyse de traces.",
+      "material": "PP compatible avec le produit, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/S02",
+      "dimensions_mm": [
+        130.0,
+        39.995,
+        17.0
+      ],
+      "volume_material_mm3": 10405.941,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le produit, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "V01",
+      "title": "Gobelet prototype Ø40 × 50",
+      "family": "09-contact-conditionnel",
+      "kind": "cup",
+      "parameters": {
+        "diameter": 40,
+        "height": 50,
+        "wall": 2.4,
+        "bottom": 3
+      },
+      "usage": "Prototype de récipient pour eau ou solution bénigne à température ambiante, après validation de l'étanchéité. Ne remplace pas un bécher de laboratoire.",
+      "fit": "Sans graduation ni capacité certifiée ; aucune chauffe, pression, stérilisation ou substance dangereuse.",
+      "material": "PP compatible avec le liquide, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/V01",
+      "dimensions_mm": [
+        39.991,
+        39.995,
+        50.0
+      ],
+      "volume_material_mm3": 17094.285,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le liquide, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "V02",
+      "title": "Gobelet prototype Ø60 × 75",
+      "family": "09-contact-conditionnel",
+      "kind": "cup",
+      "parameters": {
+        "diameter": 60,
+        "height": 75,
+        "wall": 2.4,
+        "bottom": 3
+      },
+      "usage": "Prototype de récipient pour eau ou solution bénigne à température ambiante, après validation de l'étanchéité. Ne remplace pas un bécher de laboratoire.",
+      "fit": "Sans graduation ni capacité certifiée ; aucune chauffe, pression, stérilisation ou substance dangereuse.",
+      "material": "PP compatible avec le liquide, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/V02",
+      "dimensions_mm": [
+        59.987,
+        59.993,
+        75.0
+      ],
+      "volume_material_mm3": 39751.451,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le liquide, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "V03",
+      "title": "Gobelet prototype Ø80 × 100",
+      "family": "09-contact-conditionnel",
+      "kind": "cup",
+      "parameters": {
+        "diameter": 80,
+        "height": 100,
+        "wall": 2.4,
+        "bottom": 3
+      },
+      "usage": "Prototype de récipient pour eau ou solution bénigne à température ambiante, après validation de l'étanchéité. Ne remplace pas un bécher de laboratoire.",
+      "fit": "Sans graduation ni capacité certifiée ; aucune chauffe, pression, stérilisation ou substance dangereuse.",
+      "material": "PP compatible avec le liquide, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/V03",
+      "dimensions_mm": [
+        79.982,
+        79.991,
+        100.0
+      ],
+      "volume_material_mm3": 71833.396,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le liquide, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "E01",
+      "title": "Entonnoir de démonstration Ø60",
+      "family": "09-contact-conditionnel",
+      "kind": "funnel",
+      "parameters": {
+        "diameter": 60,
+        "stem_od": 16,
+        "stem_id": 11,
+        "height": 45,
+        "stem_height": 16,
+        "wall": 2.4
+      },
+      "usage": "Transvaser de l'eau ou un liquide bénin à froid, après vérification de compatibilité et d'étanchéité ; pour les réactifs, utiliser un entonnoir de laboratoire adapté.",
+      "fit": "Tige Ø extérieur 16 mm, passage 11 mm ; imprimer debout avec une bordure d'adhérence.",
+      "material": "PP compatible avec le liquide, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/E01",
+      "dimensions_mm": [
+        59.987,
+        59.993,
+        60.9
+      ],
+      "volume_material_mm3": 14087.076,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le liquide, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "E02",
+      "title": "Entonnoir de démonstration Ø90",
+      "family": "09-contact-conditionnel",
+      "kind": "funnel",
+      "parameters": {
+        "diameter": 90,
+        "stem_od": 16,
+        "stem_id": 11,
+        "height": 60,
+        "stem_height": 16,
+        "wall": 2.4
+      },
+      "usage": "Transvaser de l'eau ou un liquide bénin à froid, après vérification de compatibilité et d'étanchéité ; pour les réactifs, utiliser un entonnoir de laboratoire adapté.",
+      "fit": "Tige Ø extérieur 16 mm, passage 11 mm ; imprimer debout avec une bordure d'adhérence.",
+      "material": "PP compatible avec le liquide, à qualifier",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/09-contact-conditionnel/E02",
+      "dimensions_mm": [
+        89.98,
+        89.99,
+        75.9
+      ],
+      "volume_material_mm3": 25265.718,
+      "series": "atelier",
+      "material_candidate": "PP compatible avec le liquide, à qualifier",
+      "chemical_qualified": false
+    },
+    {
+      "id": "L01",
+      "title": "Étiquette de col Ø24",
+      "family": "10-etiquetage",
+      "kind": "bottle_tag",
+      "parameters": {
+        "diameter": 24,
+        "wall": 4,
+        "thickness": 3,
+        "tab_length": 42,
+        "tab_width": 22
+      },
+      "usage": "Ajouter une étiquette de rangement autour du col d'un flacon ; garder les mentions réglementaires et l'étiquette du fabricant visibles.",
+      "fit": "Anneau fermé Ø intérieur 24 mm ; passer le col avant de refermer le bouchon, sans interférer avec sa fermeture.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/10-etiquetage/L01",
+      "dimensions_mm": [
+        74.0,
+        31.998,
+        3.0
+      ],
+      "volume_material_mm3": 3873.665,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "L02",
+      "title": "Étiquette de col Ø32",
+      "family": "10-etiquetage",
+      "kind": "bottle_tag",
+      "parameters": {
+        "diameter": 32,
+        "wall": 4,
+        "thickness": 3,
+        "tab_length": 42,
+        "tab_width": 22
+      },
+      "usage": "Ajouter une étiquette de rangement autour du col d'un flacon ; garder les mentions réglementaires et l'étiquette du fabricant visibles.",
+      "fit": "Anneau fermé Ø intérieur 32 mm ; passer le col avant de refermer le bouchon, sans interférer avec sa fermeture.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/10-etiquetage/L02",
+      "dimensions_mm": [
+        81.991,
+        39.999,
+        3.0
+      ],
+      "volume_material_mm3": 4161.014,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "L03",
+      "title": "Étiquette de col Ø45",
+      "family": "10-etiquetage",
+      "kind": "bottle_tag",
+      "parameters": {
+        "diameter": 45,
+        "wall": 4,
+        "thickness": 3,
+        "tab_length": 42,
+        "tab_width": 22
+      },
+      "usage": "Ajouter une étiquette de rangement autour du col d'un flacon ; garder les mentions réglementaires et l'étiquette du fabricant visibles.",
+      "fit": "Anneau fermé Ø intérieur 45 mm ; passer le col avant de refermer le bouchon, sans interférer avec sa fermeture.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/10-etiquetage/L03",
+      "dimensions_mm": [
+        94.988,
+        52.998,
+        3.0
+      ],
+      "volume_material_mm3": 4633.169,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "G01",
+      "title": "Jauge de diamètres 4 à 20 mm",
+      "family": "11-calibration",
+      "kind": "gauge",
+      "parameters": {
+        "diameters": [
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20
+        ],
+        "thickness": 4
+      },
+      "usage": "Évaluer le jeu réel de ton impression avant de fabriquer un portoir complet.",
+      "fit": "Trous nominaux ; la pièce n'est pas un instrument de métrologie certifié.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/11-calibration/G01",
+      "dimensions_mm": [
+        138.0,
+        60.0,
+        4.0
+      ],
+      "volume_material_mm3": 28239.576,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "G02",
+      "title": "Coupon emboîtements des potences",
+      "family": "11-calibration",
+      "kind": "fit_coupon",
+      "parameters": {
+        "sockets": [
+          20.2,
+          20.4,
+          20.6
+        ],
+        "peg": 19.9,
+        "thickness": 10
+      },
+      "usage": "Tester les trois jeux d'emboîtement avant d'imprimer les grandes potences.",
+      "fit": "Trois logements carrés et un pion solidaire du coupon ; tester avec une colonne séparée ou mesurer au pied à coulisse.",
+      "material": "PETG",
+      "assembly": null,
+      "license": "CC-BY-4.0",
+      "author": "nktrois",
+      "support_status": "A verifier au tranchage",
+      "physically_tested": false,
+      "path": "originaux/11-calibration/G02",
+      "dimensions_mm": [
+        138.0,
+        38.0,
+        21.9
+      ],
+      "volume_material_mm3": 44589.662,
+      "series": "atelier",
+      "material_candidate": "PETG",
+      "chemical_qualified": false
+    },
+    {
+      "id": "QB100",
+      "title": "Bécher PP à bec verseur — nominal 100 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 25,
+        "height": 75,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 100,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QB100",
+      "dimensions_mm": [
+        64.2,
+        57.2,
+        75.0
+      ],
+      "volume_material_mm3": 55133.501,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 21688,
+      "capacity_to_rim_calculated_ml": 138.23,
+      "nominal_level_from_bottom_calculated_mm": 55.88,
+      "headspace_at_nominal_calculated_percent": 27.7,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QB250",
+      "title": "Bécher PP à bec verseur — nominal 250 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 35,
+        "height": 95,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 250,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QB250",
+      "dimensions_mm": [
+        84.2,
+        77.2,
+        95.0
+      ],
+      "volume_material_mm3": 97863.046,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 20630,
+      "capacity_to_rim_calculated_ml": 347.66,
+      "nominal_level_from_bottom_calculated_mm": 69.869,
+      "headspace_at_nominal_calculated_percent": 28.1,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QB500",
+      "title": "Bécher PP à bec verseur — nominal 500 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 44,
+        "height": 120,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 500,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QB500",
+      "dimensions_mm": [
+        102.2,
+        95.2,
+        120.0
+      ],
+      "volume_material_mm3": 153885.744,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 20184,
+      "capacity_to_rim_calculated_ml": 701.31,
+      "nominal_level_from_bottom_calculated_mm": 87.095,
+      "headspace_at_nominal_calculated_percent": 28.7,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QB1000",
+      "title": "Bécher PP à bec verseur — nominal 1000 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 55,
+        "height": 155,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 1000,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QB1000",
+      "dimensions_mm": [
+        124.2,
+        117.2,
+        155.0
+      ],
+      "volume_material_mm3": 245209.849,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 19946,
+      "capacity_to_rim_calculated_ml": 1428.18,
+      "nominal_level_from_bottom_calculated_mm": 110.096,
+      "headspace_at_nominal_calculated_percent": 30.0,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QC090",
+      "title": "Cristallisoir PP Ø intérieur 90 mm",
+      "kind": "dish",
+      "parameters": {
+        "inner_radius": 45.0,
+        "height": 28,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 4
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QC090",
+      "dimensions_mm": [
+        97.2,
+        97.17,
+        28.0
+      ],
+      "volume_material_mm3": 60868.674,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 4
+      },
+      "facets": 17132,
+      "capacity_to_rim_calculated_ml": 146.64,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QC140",
+      "title": "Cristallisoir PP Ø intérieur 140 mm",
+      "kind": "dish",
+      "parameters": {
+        "inner_radius": 70.0,
+        "height": 38,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 4
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QC140",
+      "dimensions_mm": [
+        147.2,
+        147.154,
+        38.0
+      ],
+      "volume_material_mm3": 136701.572,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 4
+      },
+      "facets": 17132,
+      "capacity_to_rim_calculated_ml": 509.58,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QF060",
+      "title": "Entonnoir PP pour liquides Ø60",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 60,
+        "stem_inner_diameter": 10,
+        "cone_height": 43,
+        "stem_height": 45,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QF060",
+      "dimensions_mm": [
+        67.2,
+        67.179,
+        88.0
+      ],
+      "volume_material_mm3": 25896.87,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 30.174,
+        "minimum_cone_wall_normal_design_mm": 3.112,
+        "stem_inside_diameter_mm": 10,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3024,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QF090",
+      "title": "Entonnoir PP pour liquides Ø90",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 90,
+        "stem_inner_diameter": 12,
+        "cone_height": 65,
+        "stem_height": 45,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QF090",
+      "dimensions_mm": [
+        97.2,
+        97.17,
+        110.0
+      ],
+      "volume_material_mm3": 48546.944,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 30.964,
+        "minimum_cone_wall_normal_design_mm": 3.087,
+        "stem_inside_diameter_mm": 12,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3036,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QP080",
+      "title": "Entonnoir PP pour poudres Ø80",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 80,
+        "stem_inner_diameter": 24,
+        "cone_height": 44,
+        "stem_height": 24,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QP080",
+      "dimensions_mm": [
+        87.2,
+        87.173,
+        68.0
+      ],
+      "volume_material_mm3": 35482.262,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 32.471,
+        "minimum_cone_wall_normal_design_mm": 3.037,
+        "stem_inside_diameter_mm": 24,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 2898,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "QP110",
+      "title": "Entonnoir PP pour poudres Ø110",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 110,
+        "stem_inner_diameter": 32,
+        "cone_height": 56,
+        "stem_height": 24,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "recipients-chimiques/modeles/QP110",
+      "dimensions_mm": [
+        117.2,
+        117.164,
+        80.0
+      ],
+      "volume_material_mm3": 57526.362,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 34.854,
+        "minimum_cone_wall_normal_design_mm": 2.954,
+        "stem_inside_diameter_mm": 32,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3168,
+      "series": "recipients",
+      "family": "12-recipients"
+    },
+    {
+      "id": "WB01",
+      "title": "Bain ouvert pour immersion",
+      "kind": "bath",
+      "parameters": {
+        "length": 190,
+        "width": 125,
+        "height": 70,
+        "wall": 4,
+        "bottom": 5
+      },
+      "usage": "Contenir un bain compatible ; ouverture supérieure permettant l'observation et la reprise des échantillons.",
+      "fit": "Bain + panier WB02 ; pas une rétention de sécurité.",
+      "path": "outils-humides/modeles/WB01",
+      "dimensions_mm": [
+        190.0,
+        125.0,
+        70.0
+      ],
+      "volume_material_mm3": 275437.079,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WB02",
+      "title": "Panier d'immersion perforé",
+      "kind": "basket",
+      "parameters": {
+        "length": 164,
+        "width": 100,
+        "height": 52,
+        "wall": 3,
+        "bottom": 3.2
+      },
+      "usage": "Introduire et retirer des échantillons assez grands pour rester dans le panier ; circulation du bain par le fond et les côtés.",
+      "fit": "Pieds de 4 mm ; oreilles ajourées ; ajustement prévu dans WB01. La flottabilité et la charge doivent être testées.",
+      "path": "outils-humides/modeles/WB02",
+      "dimensions_mm": [
+        170.0,
+        100.0,
+        78.0
+      ],
+      "volume_material_mm3": 111920.731,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WB03",
+      "title": "Porte-éprouvettes immergeable",
+      "kind": "coupon_holder",
+      "parameters": {
+        "count": 6,
+        "gap": 3.2,
+        "fin": 3,
+        "length": 100,
+        "width": 65
+      },
+      "usage": "Maintenir six plaquettes ou éprouvettes dans un bain compatible, sans besoin de transparence de l'outil.",
+      "fit": "Six fentes de 3,2 mm ; dimensions des éprouvettes à mesurer ; aucune conformité à une norme de corrosion revendiquée.",
+      "path": "outils-humides/modeles/WB03",
+      "dimensions_mm": [
+        100.0,
+        65.0,
+        18.88
+      ],
+      "volume_material_mm3": 42323.284,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WF01",
+      "title": "Porte-filtre gravitaire démontable",
+      "kind": "filter_body",
+      "parameters": {
+        "stem_height": 25,
+        "collector_height": 35,
+        "cup_inner_diameter": 62,
+        "wall": 3.6
+      },
+      "usage": "Soutenir un médium filtrant commercial avec la grille WF02 et collecter un écoulement gravitaire.",
+      "fit": "Portée de grille à z=60 mm ; passage de sortie Ø8 mm. Papier, absence de contournement et filtration à valider. Pas d'aspiration ni de pression.",
+      "path": "outils-humides/modeles/WF01",
+      "dimensions_mm": [
+        69.185,
+        69.192,
+        82.0
+      ],
+      "volume_material_mm3": 40588.803,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WF02",
+      "title": "Grille amovible de filtration",
+      "kind": "filter_disc",
+      "parameters": {
+        "diameter": 61.2,
+        "thickness": 3
+      },
+      "usage": "Supporter un papier ou médium filtrant commercial dans WF01 ; la grille imprimée n'est pas elle-même le filtre fin.",
+      "fit": "Ø61,2 mm dans un logement Ø62 mm ; trous Ø2,5 mm. La zone perforée doit être entièrement couverte par le médium.",
+      "path": "outils-humides/modeles/WF02",
+      "dimensions_mm": [
+        61.186,
+        61.193,
+        3.0
+      ],
+      "volume_material_mm3": 8103.401,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WP01",
+      "title": "Nacelle de pesée à bec",
+      "kind": "weigh_boat",
+      "parameters": {
+        "length": 85,
+        "width": 55,
+        "height": 18,
+        "wall": 2.8,
+        "bottom": 3.2
+      },
+      "usage": "Peser et transférer un produit compatible avec une balance commerciale, après tare de la nacelle.",
+      "fit": "Lecture de masse sur la balance ; pas de dosage volumétrique ni de propreté analytique certifiés.",
+      "path": "outils-humides/modeles/WP01",
+      "dimensions_mm": [
+        85.0,
+        55.0,
+        18.0
+      ],
+      "volume_material_mm3": 25273.64,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WP02",
+      "title": "Palette d'agitation manuelle perforée",
+      "kind": "paddle",
+      "parameters": {
+        "handle_length": 125,
+        "thickness": 4
+      },
+      "usage": "Mélanger manuellement de petits volumes compatibles ; géométrie plate permettant nettoyage et inspection.",
+      "fit": "Longueur 175 mm ; pas d'entraînement motorisé, charge ou tenue thermique qualifiés.",
+      "path": "outils-humides/modeles/WP02",
+      "dimensions_mm": [
+        175.0,
+        40.0,
+        4.0
+      ],
+      "volume_material_mm3": 12752.504,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "WP03",
+      "title": "Bloc de rinçage à trois postes",
+      "kind": "rinse_block",
+      "parameters": {
+        "length": 104,
+        "width": 44,
+        "height": 42,
+        "well_diameter": 26
+      },
+      "usage": "Réaliser des rinçages successifs d'une sonde ou d'un petit outil avec trois liquides compatibles dans des puits indépendants.",
+      "fit": "Trois puits Ø26 mm, profondeur 36 mm ; repérer les postes et vérifier les contaminations croisées.",
+      "path": "outils-humides/modeles/WP03",
+      "dimensions_mm": [
+        104.0,
+        44.0,
+        42.0
+      ],
+      "volume_material_mm3": 133553.739,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "series": "humides",
+      "family": "13-outils-humides"
+    },
+    {
+      "id": "FL01",
+      "title": "Collecteur inférieur à bride",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "collector",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "wetted",
+      "fit": "Tige Ø16 mm ; passage Ø10 ; six perçages M4 sur cercle Ø88 ; poche de grille Ø56.",
+      "path": "filtration/modeles/FL01",
+      "dimensions_mm": [
+        105.976,
+        105.988,
+        93.0
+      ],
+      "volume_material_mm3": 82479.657,
+      "export_origin_shift_mm": [
+        53.0,
+        53.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL02",
+      "title": "Chambre supérieure de filtration",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "upper_chamber",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "wetted",
+      "fit": "Chambre Ø60 mm, hauteur 50 mm ; bride commune avec FL01 ; ouvertures du filtre et du joint Ø50.",
+      "path": "filtration/modeles/FL02",
+      "dimensions_mm": [
+        105.976,
+        105.988,
+        58.0
+      ],
+      "volume_material_mm3": 92192.902,
+      "export_origin_shift_mm": [
+        53.0,
+        53.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL03",
+      "title": "Grille de support papier Ø55",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "wetted",
+      "fit": "Ø55,2 × 4 mm ; trous Ø2,2 ; support de papier, pas un filtre fin imprimé.",
+      "path": "filtration/modeles/FL03",
+      "dimensions_mm": [
+        55.188,
+        55.194,
+        4.0
+      ],
+      "volume_material_mm3": 8599.419,
+      "export_origin_shift_mm": [
+        27.6,
+        27.6,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL04",
+      "title": "Joint plat de filtration TPU",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "TPU",
+      "material": "TPU",
+      "role": "seal",
+      "fit": "Ø72 / Ø50 × 2,2 mm ; pince la périphérie du papier entre les deux brides ; compression à qualifier.",
+      "path": "filtration/modeles/FL04",
+      "dimensions_mm": [
+        71.984,
+        71.992,
+        2.2
+      ],
+      "volume_material_mm3": 4637.619,
+      "export_origin_shift_mm": [
+        36.0,
+        36.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL05",
+      "title": "Joint conique tige–récepteur TPU",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "bung",
+      "material_candidate": "TPU",
+      "material": "TPU",
+      "role": "seal",
+      "fit": "Tige Ø16 dans alésage TPU Ø15,6 ; cône Ø29,8–34,2 dans col Ø29,6–34 ; interférences volontaires de conception.",
+      "path": "filtration/modeles/FL05",
+      "dimensions_mm": [
+        47.989,
+        47.995,
+        20.88
+      ],
+      "volume_material_mm3": 15826.909,
+      "export_origin_shift_mm": [
+        24.0,
+        24.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL06",
+      "title": "Récepteur cylindrique démontable",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "receiver",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "receiver_prototype",
+      "fit": "Corps Ø126, intérieur Ø106, fond 10 mm ; bride Ø154 ; six perçages M6 sur cercle Ø140. Aucune tenue au vide assignée.",
+      "path": "filtration/modeles/FL06",
+      "dimensions_mm": [
+        153.966,
+        153.983,
+        120.0
+      ],
+      "volume_material_mm3": 585079.534,
+      "export_origin_shift_mm": [
+        77.0,
+        77.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL07",
+      "title": "Couvercle de réception avec évent",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "receiver_prototype",
+      "fit": "Col conique dimensionné avec FL05 ; port de diamètre intérieur 4 mm pour évent en mode gravitaire. Aspiration non qualifiée.",
+      "path": "filtration/modeles/FL07",
+      "dimensions_mm": [
+        153.966,
+        153.983,
+        37.88
+      ],
+      "volume_material_mm3": 197953.676,
+      "export_origin_shift_mm": [
+        77.0,
+        77.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL08",
+      "title": "Couvercle deux ports pour prototype de piège",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "receiver_prototype",
+      "fit": "Deux embouts OD8 à bourrelets Ø9, passage Ø4. Réutilise FL06 et FL09 ; aucune efficacité de piège ou tenue au vide prouvée.",
+      "path": "filtration/modeles/FL08",
+      "dimensions_mm": [
+        153.966,
+        153.983,
+        37.88
+      ],
+      "volume_material_mm3": 186211.01,
+      "export_origin_shift_mm": [
+        77.0,
+        77.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL09",
+      "title": "Joint de couvercle du récepteur TPU",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "TPU",
+      "material": "TPU",
+      "role": "seal",
+      "fit": "Ø130 / Ø106 × 3 mm ; compression et compatibilité réelles à qualifier ; six boulons M6 extérieurs au joint.",
+      "path": "filtration/modeles/FL09",
+      "dimensions_mm": [
+        129.971,
+        129.985,
+        3.0
+      ],
+      "volume_material_mm3": 13345.486,
+      "export_origin_shift_mm": [
+        65.0,
+        65.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL10",
+      "title": "Plateau de station",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "station_base",
+      "material_candidate": "PETG",
+      "material": "PETG",
+      "role": "dry",
+      "fit": "235 × 195 × 12 mm ; perçages communs au pied de tige et au berceau de récepteur ; une impression par module.",
+      "path": "filtration/modeles/FL10",
+      "dimensions_mm": [
+        235.0,
+        195.0,
+        12.0
+      ],
+      "volume_material_mm3": 545417.188,
+      "export_origin_shift_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL11",
+      "title": "Pied de tige métallique Ø12",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "rod_foot",
+      "material_candidate": "PETG",
+      "material": "PETG",
+      "role": "dry",
+      "fit": "Quatre vis M5 ; logement Ø12,4 ; vis de blocage à écrou ou insert adapté. Tige métallique et fixation non fournies.",
+      "path": "filtration/modeles/FL11",
+      "dimensions_mm": [
+        50.0,
+        60.0,
+        42.88
+      ],
+      "volume_material_mm3": 50096.578,
+      "export_origin_shift_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL12",
+      "title": "Bras de soutien sous bride",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "support_arm",
+      "material_candidate": "PETG",
+      "material": "PETG",
+      "role": "dry",
+      "fit": "Anneau ID74/OD118 ; déport d'axe 112 mm ; logement de tige Ø12,4 ; deux bagues de blocage de tige commerciales nécessaires.",
+      "path": "filtration/modeles/FL12",
+      "dimensions_mm": [
+        191.0,
+        117.991,
+        10.0
+      ],
+      "volume_material_mm3": 83397.865,
+      "export_origin_shift_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL13",
+      "title": "Berceau du récepteur",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "cradle",
+      "material_candidate": "PETG",
+      "material": "PETG",
+      "role": "dry",
+      "fit": "Logement Ø127,2 pour corps Ø126 ; quatre vis M5 à tête fraisée 90° vers FL10, têtes affleurantes ; il ne remplace pas une évaluation de stabilité.",
+      "path": "filtration/modeles/FL13",
+      "dimensions_mm": [
+        155.965,
+        155.983,
+        11.88
+      ],
+      "volume_material_mm3": 109174.728,
+      "export_origin_shift_mm": [
+        78.0,
+        78.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL14",
+      "title": "Guide extérieur de tuyaux",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "hose_guide",
+      "material_candidate": "PETG",
+      "material": "PETG",
+      "role": "dry",
+      "fit": "Trois passages ouverts Ø9,2 pour tuyaux extérieurs compatibles ; ce n'est pas un raccord étanche.",
+      "path": "filtration/modeles/FL14",
+      "dimensions_mm": [
+        65.0,
+        35.0,
+        18.88
+      ],
+      "volume_material_mm3": 20956.252,
+      "export_origin_shift_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL15",
+      "title": "Crochet de reprise de grille",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "disc_lifter",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "wetted",
+      "fit": "Manipuler une grille propre hors charge ; tester la prise et la résistance avant usage.",
+      "path": "filtration/modeles/FL15",
+      "dimensions_mm": [
+        115.247,
+        21.999,
+        4.0
+      ],
+      "volume_material_mm3": 5376.729,
+      "export_origin_shift_mm": [
+        -0.0,
+        5.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL16",
+      "title": "Coupon TPU d'ajustement de tige",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "tpu_coupon",
+      "material_candidate": "TPU",
+      "material": "TPU",
+      "role": "calibration",
+      "fit": "Trois trous Ø15,6 / 15,8 / 16 mm pour tester le vrai filament avant le joint conique complet.",
+      "path": "filtration/modeles/FL16",
+      "dimensions_mm": [
+        95.0,
+        38.0,
+        6.0
+      ],
+      "volume_material_mm3": 18048.014,
+      "export_origin_shift_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "FL17",
+      "title": "Grille de support alternative ajourée",
+      "series": "filtration",
+      "family": "14-filtration",
+      "kind": "<lambda>",
+      "material_candidate": "PP",
+      "material": "PP",
+      "role": "wetted",
+      "fit": "Même interface Ø55,2 × 4 mm ; trous Ø4 ; support de médium, pas de granulométrie de filtration garantie.",
+      "path": "filtration/modeles/FL17",
+      "dimensions_mm": [
+        55.188,
+        55.194,
+        4.0
+      ],
+      "volume_material_mm3": 8114.859,
+      "export_origin_shift_mm": [
+        27.6,
+        27.6,
+        -0.0
+      ],
+      "physically_printed": false,
+      "chemical_qualified": false,
+      "vacuum_rating_assigned": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}

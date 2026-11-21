@@ -1,0 +1,20 @@
+{
+  "id": "F04",
+  "title": "Ø55 funnel support arm",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 55,
+    "wall": 7,
+    "thickness": 8,
+    "socket": 16.4
+  },
+  "dimensions_mm": [
+    139.5,
+    68.979,
+    8.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

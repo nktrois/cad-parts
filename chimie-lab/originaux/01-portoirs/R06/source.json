@@ -1,0 +1,24 @@
+{
+  "id": "R06",
+  "title": "24-position microtube rack",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 11.6,
+    "nx": 6,
+    "ny": 4,
+    "pitch": 17,
+    "height": 23,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    110.6,
+    76.6,
+    23.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

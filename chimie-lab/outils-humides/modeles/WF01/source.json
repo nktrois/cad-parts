@@ -1,0 +1,20 @@
+{
+  "id": "WF01",
+  "title": "Removable gravity filter holder",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "stem_height": 25,
+    "collector_height": 35,
+    "cup_inner_diameter": 62,
+    "wall": 3.6
+  },
+  "dimensions_mm": [
+    69.185,
+    69.192,
+    82.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

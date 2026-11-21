@@ -1,0 +1,373 @@
+{
+  "units": "mm",
+  "parts": [
+    {
+      "id": "QB100",
+      "title": "Bécher PP à bec verseur — nominal 100 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 25,
+        "height": 75,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 100,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QB100",
+      "dimensions_mm": [
+        64.2,
+        57.2,
+        75.0
+      ],
+      "volume_material_mm3": 55133.501,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 21688,
+      "capacity_to_rim_calculated_ml": 138.23,
+      "nominal_level_from_bottom_calculated_mm": 55.88,
+      "headspace_at_nominal_calculated_percent": 27.7
+    },
+    {
+      "id": "QB250",
+      "title": "Bécher PP à bec verseur — nominal 250 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 35,
+        "height": 95,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 250,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QB250",
+      "dimensions_mm": [
+        84.2,
+        77.2,
+        95.0
+      ],
+      "volume_material_mm3": 97863.046,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 20630,
+      "capacity_to_rim_calculated_ml": 347.66,
+      "nominal_level_from_bottom_calculated_mm": 69.869,
+      "headspace_at_nominal_calculated_percent": 28.1
+    },
+    {
+      "id": "QB500",
+      "title": "Bécher PP à bec verseur — nominal 500 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 44,
+        "height": 120,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 500,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QB500",
+      "dimensions_mm": [
+        102.2,
+        95.2,
+        120.0
+      ],
+      "volume_material_mm3": 153885.744,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 20184,
+      "capacity_to_rim_calculated_ml": 701.31,
+      "nominal_level_from_bottom_calculated_mm": 87.095,
+      "headspace_at_nominal_calculated_percent": 28.7
+    },
+    {
+      "id": "QB1000",
+      "title": "Bécher PP à bec verseur — nominal 1000 mL",
+      "kind": "beaker",
+      "parameters": {
+        "inner_radius": 55,
+        "height": 155,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 3,
+        "spout_height": 12,
+        "spout_extension": 7
+      },
+      "nominal_working_ml": 1000,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QB1000",
+      "dimensions_mm": [
+        124.2,
+        117.2,
+        155.0
+      ],
+      "volume_material_mm3": 245209.849,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 3,
+        "spout_note": "Bec évasé sur les 12 derniers mm ; épaisseur radiale nominale 3,6 mm, pas une preuve d'épaisseur normale uniforme dans le bec."
+      },
+      "facets": 19946,
+      "capacity_to_rim_calculated_ml": 1428.18,
+      "nominal_level_from_bottom_calculated_mm": 110.096,
+      "headspace_at_nominal_calculated_percent": 30.0
+    },
+    {
+      "id": "QC090",
+      "title": "Cristallisoir PP Ø intérieur 90 mm",
+      "kind": "dish",
+      "parameters": {
+        "inner_radius": 45.0,
+        "height": 28,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 4
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QC090",
+      "dimensions_mm": [
+        97.2,
+        97.17,
+        28.0
+      ],
+      "volume_material_mm3": 60868.674,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 4
+      },
+      "facets": 17132,
+      "capacity_to_rim_calculated_ml": 146.64
+    },
+    {
+      "id": "QC140",
+      "title": "Cristallisoir PP Ø intérieur 140 mm",
+      "kind": "dish",
+      "parameters": {
+        "inner_radius": 70.0,
+        "height": 38,
+        "wall": 3.6,
+        "bottom": 4.8,
+        "inside_fillet": 4
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QC140",
+      "dimensions_mm": [
+        147.2,
+        147.154,
+        38.0
+      ],
+      "volume_material_mm3": 136701.572,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "inside_floor_fillet_mm": 4
+      },
+      "facets": 17132,
+      "capacity_to_rim_calculated_ml": 509.58
+    },
+    {
+      "id": "QF060",
+      "title": "Entonnoir PP pour liquides Ø60",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 60,
+        "stem_inner_diameter": 10,
+        "cone_height": 43,
+        "stem_height": 45,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QF060",
+      "dimensions_mm": [
+        67.2,
+        67.179,
+        88.0
+      ],
+      "volume_material_mm3": 25896.87,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 30.174,
+        "minimum_cone_wall_normal_design_mm": 3.112,
+        "stem_inside_diameter_mm": 10,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3024
+    },
+    {
+      "id": "QF090",
+      "title": "Entonnoir PP pour liquides Ø90",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 90,
+        "stem_inner_diameter": 12,
+        "cone_height": 65,
+        "stem_height": 45,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QF090",
+      "dimensions_mm": [
+        97.2,
+        97.17,
+        110.0
+      ],
+      "volume_material_mm3": 48546.944,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 30.964,
+        "minimum_cone_wall_normal_design_mm": 3.087,
+        "stem_inside_diameter_mm": 12,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3036
+    },
+    {
+      "id": "QP080",
+      "title": "Entonnoir PP pour poudres Ø80",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 80,
+        "stem_inner_diameter": 24,
+        "cone_height": 44,
+        "stem_height": 24,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QP080",
+      "dimensions_mm": [
+        87.2,
+        87.173,
+        68.0
+      ],
+      "volume_material_mm3": 35482.262,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 32.471,
+        "minimum_cone_wall_normal_design_mm": 3.037,
+        "stem_inside_diameter_mm": 24,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 2898
+    },
+    {
+      "id": "QP110",
+      "title": "Entonnoir PP pour poudres Ø110",
+      "kind": "funnel",
+      "parameters": {
+        "top_inner_diameter": 110,
+        "stem_inner_diameter": 32,
+        "cone_height": 56,
+        "stem_height": 24,
+        "wall": 3.6
+      },
+      "nominal_working_ml": null,
+      "material_candidate": "PP non chargé, grade et usage à qualifier",
+      "intended_use": "Manipulation en récipient ouvert de solutions ou produits compatibles avec le grade et le procédé effectivement qualifiés.",
+      "chemical_qualified": false,
+      "leak_tested": false,
+      "physically_printed": false,
+      "hot_use_qualified": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0",
+      "path": "modeles/QP110",
+      "dimensions_mm": [
+        117.2,
+        117.164,
+        80.0
+      ],
+      "volume_material_mm3": 57526.362,
+      "design": {
+        "max_inward_overhang_deg": 0,
+        "cone_angle_from_vertical_deg": 34.854,
+        "minimum_cone_wall_normal_design_mm": 2.954,
+        "stem_inside_diameter_mm": 32,
+        "geometry_note": "Passage continu, aucune chambre fermée ni grille interne."
+      },
+      "facets": 3168
+    }
+  ]
+}

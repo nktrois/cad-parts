@@ -1,0 +1,18 @@
+{
+  "id": "WP02",
+  "title": "Perforated manual stirring paddle",
+  "generator": "../../scripts/build_freecad.py",
+  "settings": null,
+  "parameters_reference": {
+    "handle_length": 125,
+    "thickness": 4
+  },
+  "dimensions_mm": [
+    175.0,
+    40.0,
+    4.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "O04",
+  "title": "Long storage tray",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "length": 225,
+    "width": 85,
+    "height": 26,
+    "wall": 3,
+    "bottom": 3,
+    "dividers": 0
+  },
+  "dimensions_mm": [
+    225.0,
+    85.0,
+    26.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

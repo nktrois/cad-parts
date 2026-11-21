@@ -1,0 +1,17 @@
+{
+  "originals": 80,
+  "series": {
+    "atelier": 45,
+    "recipients": 10,
+    "humides": 8,
+    "filtration": 17
+  },
+  "excluded_erlenmeyers": [
+    "QE100",
+    "QE250",
+    "QE500",
+    "QE1000"
+  ],
+  "third_party_models": 0,
+  "remote_push_performed": false
+}

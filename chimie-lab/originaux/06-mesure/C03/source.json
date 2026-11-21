@@ -1,0 +1,24 @@
+{
+  "id": "C03",
+  "title": "Ø120 open probe support plate",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 120,
+    "thickness": 5,
+    "holes": [
+      6.5,
+      8.5,
+      12.5,
+      4.5
+    ]
+  },
+  "dimensions_mm": [
+    119.993,
+    119.852,
+    5.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

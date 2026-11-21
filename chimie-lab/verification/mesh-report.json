@@ -1,0 +1,2256 @@
+{
+  "summary": {
+    "originals": 80,
+    "valid_topology": 80,
+    "one_component": 80,
+    "fit_printer": 80,
+    "within_240mm_margin": 80,
+    "physically_printed": 0,
+    "chemical_tests": 0,
+    "leak_tests": 0,
+    "vacuum_tests": 0,
+    "scope": "Numerical STL topology, winding, dimensions; no slicing or physical qualification."
+  },
+  "parts": [
+    {
+      "path": "originaux/01-portoirs/R01/R01.stl",
+      "sha256": "e6ba43279d16e8b2c0b3a2c63d2a499b4a8c318df7a05c3051ee3fa374bbd860",
+      "facets": 21324,
+      "vertices": 10628,
+      "dimensions_mm": [
+        126.6,
+        66.6,
+        34.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 218370.4121,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 126.6,
+      "id": "R01"
+    },
+    {
+      "path": "originaux/01-portoirs/R02/R02.stl",
+      "sha256": "35b7cac8617bdbf311dc82feddf18a8d7440182c7bbb8ffbc03ff630aefd21d4",
+      "facets": 19416,
+      "vertices": 9674,
+      "dimensions_mm": [
+        150.6,
+        78.6,
+        42.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 348089.1179,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 150.6,
+      "id": "R02"
+    },
+    {
+      "path": "originaux/01-portoirs/R03/R03.stl",
+      "sha256": "d4f89b43d2c44e3ee272f911e885e7df8dec40828b87bdd3ac7f85706ff8e6d6",
+      "facets": 13092,
+      "vertices": 6524,
+      "dimensions_mm": [
+        121.7,
+        92.7,
+        44.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 334039.3595,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 121.7,
+      "id": "R03"
+    },
+    {
+      "path": "originaux/01-portoirs/R04/R04.stl",
+      "sha256": "4f4db117402be9d34ba24add0fa3e380b0a8700b7a75795e942948962557c8fe",
+      "facets": 10984,
+      "vertices": 5474,
+      "dimensions_mm": [
+        135.8,
+        57.8,
+        42.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 234384.5855,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 135.8,
+      "id": "R04"
+    },
+    {
+      "path": "originaux/01-portoirs/R05/R05.stl",
+      "sha256": "00ce6dcd275bddcabcbb4fc08643c36419ae3b0fa97fc54da9af3d2a85220676",
+      "facets": 8876,
+      "vertices": 4424,
+      "dimensions_mm": [
+        161.8,
+        83.8,
+        56.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 448663.2503,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 161.8,
+      "id": "R05"
+    },
+    {
+      "path": "originaux/01-portoirs/R06/R06.stl",
+      "sha256": "4c18421afcab1cdbe59563289328acafa27f81c5b25059ebdb059e3d1a07eaea",
+      "facets": 28284,
+      "vertices": 14096,
+      "dimensions_mm": [
+        110.6,
+        76.6,
+        23.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 145535.3064,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 110.6,
+      "id": "R06"
+    },
+    {
+      "path": "originaux/01-portoirs/R07/R07.stl",
+      "sha256": "6ba9ed47d497b3fcd65605f1ec2434d835fc3ddcc904654c576e66f309f3c505",
+      "facets": 13092,
+      "vertices": 6524,
+      "dimensions_mm": [
+        118.8,
+        90.8,
+        27.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 196743.4298,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 118.8,
+      "id": "R07"
+    },
+    {
+      "path": "originaux/01-portoirs/R08/R08.stl",
+      "sha256": "0da5ae6bdb94e484b277a42e11cdd07175c0fd0ff800ef74d310575e9d24683b",
+      "facets": 8876,
+      "vertices": 4424,
+      "dimensions_mm": [
+        153.8,
+        79.8,
+        32.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 246233.7103,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 153.8,
+      "id": "R08"
+    },
+    {
+      "path": "originaux/02-flacons/B01/B01.stl",
+      "sha256": "4ee1b81198b979a191eaadfcec7787279a981126fe8cf2cdb53857616a024dab",
+      "facets": 4660,
+      "vertices": 2324,
+      "dimensions_mm": [
+        99.0,
+        99.0,
+        20.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 140933.2161,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 99.0,
+      "id": "B01"
+    },
+    {
+      "path": "originaux/02-flacons/B02/B02.stl",
+      "sha256": "c1e110fcf66f2b50e70ab49c9952bfe6ef89e97d3f9b5d3b27f746deeb163d00",
+      "facets": 3606,
+      "vertices": 1799,
+      "dimensions_mm": [
+        186.0,
+        66.0,
+        20.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 165444.018,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 186.0,
+      "id": "B02"
+    },
+    {
+      "path": "originaux/02-flacons/B03/B03.stl",
+      "sha256": "5b03730c3e7b1662c82cdf9129c43d168678a147797b1748585b8e50f037242a",
+      "facets": 1284,
+      "vertices": 644,
+      "dimensions_mm": [
+        102.0,
+        102.0,
+        19.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 64964.0719,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 102.0,
+      "id": "B03"
+    },
+    {
+      "path": "originaux/02-flacons/B04/B04.stl",
+      "sha256": "4d96403be0f83c40b9c99a9ec49f3b5e987961e609e4b97f1d8dabc2e8b6bb65",
+      "facets": 1284,
+      "vertices": 644,
+      "dimensions_mm": [
+        127.0,
+        127.0,
+        19.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 98267.252,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 127.0,
+      "id": "B04"
+    },
+    {
+      "path": "originaux/03-potences/F01/F01.stl",
+      "sha256": "dc0c6b483a49c2d3f5a7b5900dfc790a89a2e2aad9d9747e46b9bcf42e838e08",
+      "facets": 460,
+      "vertices": 232,
+      "dimensions_mm": [
+        160.0,
+        110.0,
+        11.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 189504.3005,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 160.0,
+      "id": "F01"
+    },
+    {
+      "path": "originaux/03-potences/F02/F02.stl",
+      "sha256": "e0ae424ee7b3d04eef240d4c0ee7a7506654ce096d1d29ee4d79d14d3dba2a1e",
+      "facets": 44,
+      "vertices": 24,
+      "dimensions_mm": [
+        20.0,
+        20.0,
+        160.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 63150.957,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 160.9,
+      "id": "F02"
+    },
+    {
+      "path": "originaux/03-potences/F03/F03.stl",
+      "sha256": "07bbf4969ed7bb8e8b9a007fe73e9573933275800f36cebd7c642c0de49e17e5",
+      "facets": 796,
+      "vertices": 396,
+      "dimensions_mm": [
+        129.5,
+        48.9788,
+        8.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0106,
+        0.0
+      ],
+      "signed_volume_mm3": 28627.0018,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 129.5,
+      "id": "F03"
+    },
+    {
+      "path": "originaux/03-potences/F04/F04.stl",
+      "sha256": "f8ecce72b28047d45e906cb2c57ed104bbc44316137aa38eb3a47026607b7fc4",
+      "facets": 828,
+      "vertices": 412,
+      "dimensions_mm": [
+        139.5,
+        68.9788,
+        8.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0106,
+        0.0
+      ],
+      "signed_volume_mm3": 29432.2256,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 139.5,
+      "id": "F04"
+    },
+    {
+      "path": "originaux/04-pipettes/P01/P01.stl",
+      "sha256": "f9877efa688d0bcb3b3f25fd2bb9e0b74c3929514a1e36be679d22a450c15259",
+      "facets": 460,
+      "vertices": 232,
+      "dimensions_mm": [
+        170.0,
+        125.0,
+        11.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 229654.3017,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 170.0,
+      "id": "P01"
+    },
+    {
+      "path": "originaux/04-pipettes/P02/P02.stl",
+      "sha256": "c8d44fd0dbc6856172ee657bcf63a5866629b3cd1efc62bd9f7403d8d1e671c2",
+      "facets": 44,
+      "vertices": 24,
+      "dimensions_mm": [
+        20.0,
+        20.0,
+        205.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 81150.957,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 205.9,
+      "id": "P02"
+    },
+    {
+      "path": "originaux/04-pipettes/P03/P03.stl",
+      "sha256": "9e6e56fbb6bc1d406e3ee67bcdc11ca3a225072f00e65283868d9dfd22b3447c",
+      "facets": 1584,
+      "vertices": 792,
+      "dimensions_mm": [
+        160.0,
+        65.0,
+        8.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 69967.4287,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 160.0,
+      "id": "P03"
+    },
+    {
+      "path": "originaux/05-sechage/D01/D01.stl",
+      "sha256": "bbbe93c300bb7f1401f76b41ad7c0bf3860de55eefb390f2c0b7657b3080f1cc",
+      "facets": 588,
+      "vertices": 296,
+      "dimensions_mm": [
+        79.0,
+        90.0,
+        27.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 78742.4327,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 90.0,
+      "id": "D01"
+    },
+    {
+      "path": "originaux/05-sechage/D02/D02.stl",
+      "sha256": "0d78fe075b7f49d2a7ac52034fdbb231bd20961615dc79b56e9a27e61b206bfe",
+      "facets": 556,
+      "vertices": 280,
+      "dimensions_mm": [
+        123.0,
+        100.0,
+        36.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 120412.4948,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 123.0,
+      "id": "D02"
+    },
+    {
+      "path": "originaux/05-sechage/D03/D03.stl",
+      "sha256": "b6b20692fed0eb5213da392839939f3ce189469620a09ef2dd04a6c52d76fe9e",
+      "facets": 3020,
+      "vertices": 1512,
+      "dimensions_mm": [
+        140.0,
+        70.0,
+        17.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 81792.8697,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 140.0,
+      "id": "D03"
+    },
+    {
+      "path": "originaux/06-mesure/C01/C01.stl",
+      "sha256": "359c9781a90064a45a7978463d8222b6c11bbbcc2979bf0e204b8d20b7419eba",
+      "facets": 5724,
+      "vertices": 2840,
+      "dimensions_mm": [
+        93.6,
+        71.6,
+        22.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 106931.2362,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 93.6,
+      "id": "C01"
+    },
+    {
+      "path": "originaux/06-mesure/C02/C02.stl",
+      "sha256": "d46827e4ea54cba56e3fda2b0b8428f6a018317f1dcb2b78e913edc19e0ee51d",
+      "facets": 2152,
+      "vertices": 1072,
+      "dimensions_mm": [
+        90.0,
+        89.8021,
+        5.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0197,
+        0.0
+      ],
+      "signed_volume_mm3": 28205.6724,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 90.0,
+      "id": "C02"
+    },
+    {
+      "path": "originaux/06-mesure/C03/C03.stl",
+      "sha256": "5c10db4aaa51f14aca6c28bc29e2c23707586cc93455dfd200f6c1c5c8267a72",
+      "facets": 2156,
+      "vertices": 1074,
+      "dimensions_mm": [
+        119.9932,
+        119.8517,
+        5.0
+      ],
+      "minimum_mm": [
+        0.0068,
+        0.0148,
+        0.0
+      ],
+      "signed_volume_mm3": 52330.9509,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 119.9932,
+      "id": "C03"
+    },
+    {
+      "path": "originaux/07-tuyaux/T01/T01.stl",
+      "sha256": "11ef5b472081b14b8084cae4e4bc71cf373fed38487af7ede4b3a4af4423f141",
+      "facets": 1788,
+      "vertices": 896,
+      "dimensions_mm": [
+        90.6,
+        40.0,
+        14.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 38103.5568,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 90.6,
+      "id": "T01"
+    },
+    {
+      "path": "originaux/07-tuyaux/T02/T02.stl",
+      "sha256": "7809940c51ab86c99e9d968ec6e74242ade94fc7a5fd8c6a3d8c934f47162f36",
+      "facets": 1788,
+      "vertices": 896,
+      "dimensions_mm": [
+        102.6,
+        40.0,
+        14.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 40461.3477,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 102.6,
+      "id": "T02"
+    },
+    {
+      "path": "originaux/07-tuyaux/T03/T03.stl",
+      "sha256": "687ea76557b610175d264f1d875408b8325ff1c03f807838dfdd14505bc52288",
+      "facets": 3244,
+      "vertices": 1624,
+      "dimensions_mm": [
+        37.4,
+        37.4,
+        10.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 6115.6907,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 37.4,
+      "id": "T03"
+    },
+    {
+      "path": "originaux/07-tuyaux/T04/T04.stl",
+      "sha256": "b5c2c37d946dade7897b57111c9881b61a4f64167f45f05beefaa9985479164d",
+      "facets": 3244,
+      "vertices": 1624,
+      "dimensions_mm": [
+        49.4,
+        49.4,
+        10.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 8931.0563,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 49.4,
+      "id": "T04"
+    },
+    {
+      "path": "originaux/08-rangement/O01/O01.stl",
+      "sha256": "e789accc55fc0559d6e782738a027acb5da7cd2c39661225ff31237428d67c37",
+      "facets": 3020,
+      "vertices": 1512,
+      "dimensions_mm": [
+        154.0,
+        75.0,
+        15.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 82161.9286,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 154.0,
+      "id": "O01"
+    },
+    {
+      "path": "originaux/08-rangement/O02/O02.stl",
+      "sha256": "8d7cdfd166f2300ea3290800a213ae00919f81ad7fcbfc3203af59aeef6f255f",
+      "facets": 1748,
+      "vertices": 876,
+      "dimensions_mm": [
+        96.0,
+        80.0,
+        15.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 56748.2962,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 96.0,
+      "id": "O02"
+    },
+    {
+      "path": "originaux/08-rangement/O03/O03.stl",
+      "sha256": "30828d76c4ed96b6b2b9d7e94402b2a25da6d62898b773901891788865f2ba38",
+      "facets": 492,
+      "vertices": 248,
+      "dimensions_mm": [
+        180.0,
+        120.0,
+        22.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 110940.8165,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 180.0,
+      "id": "O03"
+    },
+    {
+      "path": "originaux/08-rangement/O04/O04.stl",
+      "sha256": "dc7405d1bdc0fe262043b85a4057a0f82e77e7f7aa0b0deec30f734bf103ec85",
+      "facets": 460,
+      "vertices": 232,
+      "dimensions_mm": [
+        225.0,
+        85.0,
+        26.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 98969.1653,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 225.0,
+      "id": "O04"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/S01/S01.stl",
+      "sha256": "72cc773ebda8f901bec6854df58685a3c52b7be5ff58e81021e7512f6f235b74",
+      "facets": 852,
+      "vertices": 428,
+      "dimensions_mm": [
+        115.0,
+        24.9976,
+        12.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0012,
+        0.0
+      ],
+      "signed_volume_mm3": 6070.9317,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 115.0,
+      "id": "S01"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/S02/S02.stl",
+      "sha256": "6f4772a82fd970566793c815ecbf9b0199f45b22fad6975509316dc6c980ae9a",
+      "facets": 852,
+      "vertices": 428,
+      "dimensions_mm": [
+        130.0,
+        39.9955,
+        17.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0022,
+        0.0
+      ],
+      "signed_volume_mm3": 10404.2742,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 130.0,
+      "id": "S02"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/V01/V01.stl",
+      "sha256": "4b8876e65a56ea8ce499833db9f85a1a4ffab2d2ff9aec30762bbc304e8cd6b7",
+      "facets": 836,
+      "vertices": 420,
+      "dimensions_mm": [
+        39.9911,
+        39.9955,
+        50.0
+      ],
+      "minimum_mm": [
+        0.0089,
+        0.0022,
+        0.0
+      ],
+      "signed_volume_mm3": 17084.0855,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 50.0,
+      "id": "V01"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/V02/V02.stl",
+      "sha256": "9ac310642f49f0e0b5cb487bd28b8bf87142f62db76d3ffb0906a650e7070905",
+      "facets": 836,
+      "vertices": 420,
+      "dimensions_mm": [
+        59.9866,
+        59.9933,
+        75.0
+      ],
+      "minimum_mm": [
+        0.0134,
+        0.0034,
+        0.0
+      ],
+      "signed_volume_mm3": 39727.7333,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 75.0,
+      "id": "V02"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/V03/V03.stl",
+      "sha256": "e36c7c6bf0f5a571b6b578fce46ff644da2a6a1c774bdeed29e673c44a8256c9",
+      "facets": 836,
+      "vertices": 420,
+      "dimensions_mm": [
+        79.9821,
+        79.991,
+        100.0
+      ],
+      "minimum_mm": [
+        0.0179,
+        0.0045,
+        0.0
+      ],
+      "signed_volume_mm3": 71790.5366,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 100.0,
+      "id": "V03"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/E01/E01.stl",
+      "sha256": "4221133ebf0fcb48a8f14cfa24de837918ad58772283130e394a88555c005b8c",
+      "facets": 2532,
+      "vertices": 1266,
+      "dimensions_mm": [
+        59.9866,
+        59.9933,
+        60.9
+      ],
+      "minimum_mm": [
+        0.0134,
+        0.0034,
+        0.0
+      ],
+      "signed_volume_mm3": 14060.9861,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 60.9,
+      "id": "E01"
+    },
+    {
+      "path": "originaux/09-contact-conditionnel/E02/E02.stl",
+      "sha256": "86f7a9ce5a263d24cbfeb01bc33f7984c480392737261e3f4ed8094c07942cfd",
+      "facets": 2532,
+      "vertices": 1266,
+      "dimensions_mm": [
+        89.9799,
+        89.9899,
+        75.9
+      ],
+      "minimum_mm": [
+        0.0201,
+        0.005,
+        0.0
+      ],
+      "signed_volume_mm3": 25217.0183,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 89.9899,
+      "id": "E02"
+    },
+    {
+      "path": "originaux/10-etiquetage/L01/L01.stl",
+      "sha256": "cf7b5a65e47f15acbcbab9206d3168e172f60c75df0899c10622a562779f0f16",
+      "facets": 1200,
+      "vertices": 598,
+      "dimensions_mm": [
+        74.0,
+        31.998,
+        3.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "signed_volume_mm3": 3873.3372,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 74.0,
+      "id": "L01"
+    },
+    {
+      "path": "originaux/10-etiquetage/L02/L02.stl",
+      "sha256": "ae2f86e81be2e0764f070153b13f953d028b051fc4e4e8a0862fca5c1d0e064b",
+      "facets": 1212,
+      "vertices": 604,
+      "dimensions_mm": [
+        81.9912,
+        39.9995,
+        3.0
+      ],
+      "minimum_mm": [
+        0.0088,
+        0.0003,
+        0.0
+      ],
+      "signed_volume_mm3": 4160.647,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 81.9912,
+      "id": "L02"
+    },
+    {
+      "path": "originaux/10-etiquetage/L03/L03.stl",
+      "sha256": "19f1dff042a220700c560ecba4be79b070263b5cec1a2cb322fb9c428faed93a",
+      "facets": 1220,
+      "vertices": 608,
+      "dimensions_mm": [
+        94.9882,
+        52.9975,
+        3.0
+      ],
+      "minimum_mm": [
+        0.0118,
+        0.0012,
+        0.0
+      ],
+      "signed_volume_mm3": 4632.6505,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 94.9882,
+      "id": "L03"
+    },
+    {
+      "path": "originaux/11-calibration/G01/G01.stl",
+      "sha256": "b71df6e2531e624d31d24e99255d45afd472d260c5f041b3e660abf824b819c6",
+      "facets": 4260,
+      "vertices": 2114,
+      "dimensions_mm": [
+        138.0,
+        60.0,
+        4.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 28242.3414,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 138.0,
+      "id": "G01"
+    },
+    {
+      "path": "originaux/11-calibration/G02/G02.stl",
+      "sha256": "02d72fab004c2eb1a6b5764a004138f9ffb326eb1fdf4ec67669666091e8948a",
+      "facets": 520,
+      "vertices": 256,
+      "dimensions_mm": [
+        138.0,
+        38.0,
+        21.9
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 44589.5008,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 138.0,
+      "id": "G02"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QB100/QB100.stl",
+      "sha256": "6bf8642106c5ed44a93eb8ece035624158194240a747cc652f255efbb6fad27d",
+      "facets": 21688,
+      "vertices": 10846,
+      "dimensions_mm": [
+        64.2,
+        57.2,
+        75.0
+      ],
+      "minimum_mm": [
+        2.3564,
+        2.3564,
+        -0.0
+      ],
+      "signed_volume_mm3": 55125.2498,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 75.0,
+      "id": "QB100"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QB250/QB250.stl",
+      "sha256": "c1e8827e95a1e52232a3047595fb1a9c525fe91fac8cf8300400fb9347c1c79e",
+      "facets": 20630,
+      "vertices": 10317,
+      "dimensions_mm": [
+        84.2,
+        77.2,
+        95.0
+      ],
+      "minimum_mm": [
+        3.1803,
+        3.1803,
+        -0.0
+      ],
+      "signed_volume_mm3": 97846.5405,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 95.0,
+      "id": "QB250"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QB500/QB500.stl",
+      "sha256": "c92e1f2dd0e1dde4f2511f9ed54b13ddddf042f8e3f20c36aab693e5040f7f7a",
+      "facets": 20184,
+      "vertices": 10094,
+      "dimensions_mm": [
+        102.2,
+        95.2,
+        120.0
+      ],
+      "minimum_mm": [
+        3.9219,
+        3.9219,
+        -0.0
+      ],
+      "signed_volume_mm3": 153860.4685,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 120.0,
+      "id": "QB500"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QB1000/QB1000.stl",
+      "sha256": "c84a9027f72421b656d019ef2c47f3657ee98ac66447567d562617e1392f5cec",
+      "facets": 19946,
+      "vertices": 9975,
+      "dimensions_mm": [
+        124.2,
+        117.2,
+        155.0
+      ],
+      "minimum_mm": [
+        4.8282,
+        4.8282,
+        -0.0
+      ],
+      "signed_volume_mm3": 245168.1753,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 155.0,
+      "id": "QB1000"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QC090/QC090.stl",
+      "sha256": "ecd0635b6c263d089cb8a642635ff5f69c9285e8af55cea588f35db4b61fc445",
+      "facets": 17132,
+      "vertices": 8568,
+      "dimensions_mm": [
+        97.2,
+        97.1698,
+        28.0
+      ],
+      "minimum_mm": [
+        4.0043,
+        4.0194,
+        -0.0
+      ],
+      "signed_volume_mm3": 60844.4534,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 97.2,
+      "id": "QC090"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QC140/QC140.stl",
+      "sha256": "730bfa57ea1a45206488e3c73cbf9a90baa95379c5e08458144cc544f86c92bf",
+      "facets": 17132,
+      "vertices": 8568,
+      "dimensions_mm": [
+        147.2,
+        147.1543,
+        38.0
+      ],
+      "minimum_mm": [
+        6.0641,
+        6.0869,
+        0.0
+      ],
+      "signed_volume_mm3": 136646.5279,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 147.2,
+      "id": "QC140"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QF060/QF060.stl",
+      "sha256": "0ce9fb8301aeb8845c0966d507c74574467c6ba6e9714bd7a5a4842f081d7d5b",
+      "facets": 3024,
+      "vertices": 1512,
+      "dimensions_mm": [
+        67.2,
+        67.1791,
+        88.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0104,
+        0.0
+      ],
+      "signed_volume_mm3": 25867.0671,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 88.0,
+      "id": "QF060"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QF090/QF090.stl",
+      "sha256": "3255e66bcf1eef72337eddccbca7e4888290f2807d67e201cc363217146187f5",
+      "facets": 3036,
+      "vertices": 1518,
+      "dimensions_mm": [
+        97.2,
+        97.1698,
+        110.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0151,
+        0.0
+      ],
+      "signed_volume_mm3": 48491.909,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 110.0,
+      "id": "QF090"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QP080/QP080.stl",
+      "sha256": "c6f7844bd96830d7a7ce39d41a75acd637e83ede0396f0da255e43650b87fbaf",
+      "facets": 2898,
+      "vertices": 1449,
+      "dimensions_mm": [
+        87.2,
+        87.1729,
+        68.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0135,
+        0.0
+      ],
+      "signed_volume_mm3": 35444.9352,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 87.2,
+      "id": "QP080"
+    },
+    {
+      "path": "recipients-chimiques/modeles/QP110/QP110.stl",
+      "sha256": "90c310cd270d271ab82bf557bc4861f0335a7e224cb1a3a16c81e727e2720347",
+      "facets": 3168,
+      "vertices": 1584,
+      "dimensions_mm": [
+        117.2,
+        117.1636,
+        80.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0182,
+        0.0
+      ],
+      "signed_volume_mm3": 57481.992,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 117.2,
+      "id": "QP110"
+    },
+    {
+      "path": "outils-humides/modeles/WB01/WB01.stl",
+      "sha256": "0cc79a99f3fa34400d0e32fd261c6b6099cbd310fd8d5313bb468ab2660d5b8e",
+      "facets": 892,
+      "vertices": 448,
+      "dimensions_mm": [
+        190.0,
+        125.0,
+        70.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 275430.9845,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 190.0,
+      "id": "WB01"
+    },
+    {
+      "path": "outils-humides/modeles/WB02/WB02.stl",
+      "sha256": "8b0f4fe6395a2cbb9cb20003b6c7a660f123363751d4f6ec03a74f637806532b",
+      "facets": 54430,
+      "vertices": 26881,
+      "dimensions_mm": [
+        170.0,
+        100.0,
+        78.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 111920.6357,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 170.0,
+      "id": "WB02"
+    },
+    {
+      "path": "outils-humides/modeles/WB03/WB03.stl",
+      "sha256": "a2cf07e8349ce75c5dca08ca072c8a10eef26c2015e5f7e8379b2fd8e49b845a",
+      "facets": 8188,
+      "vertices": 4060,
+      "dimensions_mm": [
+        100.0,
+        65.0,
+        18.88
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 42323.2808,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 100.0,
+      "id": "WB03"
+    },
+    {
+      "path": "outils-humides/modeles/WF01/WF01.stl",
+      "sha256": "2c09ed04ec8e95a35428229dbd604e3bca006b9c02b52ab3a0feac66f6ee8f96",
+      "facets": 3160,
+      "vertices": 1580,
+      "dimensions_mm": [
+        69.1845,
+        69.1923,
+        82.0
+      ],
+      "minimum_mm": [
+        0.0155,
+        0.0039,
+        0.0
+      ],
+      "signed_volume_mm3": 40537.0423,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 82.0,
+      "id": "WF01"
+    },
+    {
+      "path": "outils-humides/modeles/WF02/WF02.stl",
+      "sha256": "0afcff50ddfa4e7d4e8de1f3e44e0f6a6ad3589b16215a2f8c474cf45e405d87",
+      "facets": 21192,
+      "vertices": 10500,
+      "dimensions_mm": [
+        61.1863,
+        61.1932,
+        3.0
+      ],
+      "minimum_mm": [
+        0.0137,
+        0.0034,
+        0.0
+      ],
+      "signed_volume_mm3": 8098.5653,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 61.1932,
+      "id": "WF02"
+    },
+    {
+      "path": "outils-humides/modeles/WP01/WP01.stl",
+      "sha256": "587a1d3c66ca18b7e5836c31df622ccdf8be46fb0f06591c9c9e2dad0cb47348",
+      "facets": 904,
+      "vertices": 454,
+      "dimensions_mm": [
+        85.0,
+        55.0,
+        18.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 25272.2555,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 85.0,
+      "id": "WP01"
+    },
+    {
+      "path": "outils-humides/modeles/WP02/WP02.stl",
+      "sha256": "4d30fdd73f8a3594ed4acb3a22d5c11644c66646ad8a68cdcb54d0f640a80125",
+      "facets": 4916,
+      "vertices": 2440,
+      "dimensions_mm": [
+        175.0,
+        40.0,
+        4.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 12752.8468,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 175.0,
+      "id": "WP02"
+    },
+    {
+      "path": "outils-humides/modeles/WP03/WP03.stl",
+      "sha256": "5740481ca315447be7df8a873b17983f5aef2ddbaca00274afc72f5a8b2492f7",
+      "facets": 1704,
+      "vertices": 854,
+      "dimensions_mm": [
+        104.0,
+        44.0,
+        42.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 133585.2741,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 104.0,
+      "id": "WP03"
+    },
+    {
+      "path": "filtration/modeles/FL01/FL01.stl",
+      "sha256": "e92a89f82ba569d6e3c24c3f97a83e39132b3317615082a886d6baec658eb846",
+      "facets": 6124,
+      "vertices": 3050,
+      "dimensions_mm": [
+        105.9763,
+        105.9881,
+        93.0
+      ],
+      "minimum_mm": [
+        0.0237,
+        0.0059,
+        0.0
+      ],
+      "signed_volume_mm3": 82398.6048,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 105.9881,
+      "id": "FL01"
+    },
+    {
+      "path": "filtration/modeles/FL02/FL02.stl",
+      "sha256": "4ca5aaf061cb0a2d0b258420db4a026ea84394f7d5c0b386ce88c25578fe9266",
+      "facets": 4540,
+      "vertices": 2258,
+      "dimensions_mm": [
+        105.9763,
+        105.9881,
+        58.0
+      ],
+      "minimum_mm": [
+        0.0237,
+        0.0059,
+        0.0
+      ],
+      "signed_volume_mm3": 92145.3142,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 105.9881,
+      "id": "FL02"
+    },
+    {
+      "path": "filtration/modeles/FL03/FL03.stl",
+      "sha256": "e236c09bdce0d9ca70a2661f4140413c45fd1a7bc01a36f5a21c2f41d6ac1d3b",
+      "facets": 27552,
+      "vertices": 13650,
+      "dimensions_mm": [
+        55.1877,
+        55.1938,
+        4.0
+      ],
+      "minimum_mm": [
+        0.0123,
+        0.0031,
+        0.0
+      ],
+      "signed_volume_mm3": 8594.2874,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 55.1938,
+      "id": "FL03"
+    },
+    {
+      "path": "filtration/modeles/FL04/FL04.stl",
+      "sha256": "d61b9cdacadd3f3ebb6ace31f48733766969947a4caa511df92e97863ef7448b",
+      "facets": 840,
+      "vertices": 420,
+      "dimensions_mm": [
+        71.9839,
+        71.9919,
+        2.2
+      ],
+      "minimum_mm": [
+        0.0161,
+        0.004,
+        0.0
+      ],
+      "signed_volume_mm3": 4634.8519,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 71.9919,
+      "id": "FL04"
+    },
+    {
+      "path": "filtration/modeles/FL05/FL05.stl",
+      "sha256": "ae95999b4f718231f62b3b347c6659a9708d5261203cdc06bc3f20faafe36fc4",
+      "facets": 1790,
+      "vertices": 895,
+      "dimensions_mm": [
+        47.9893,
+        47.9946,
+        20.88
+      ],
+      "minimum_mm": [
+        0.0107,
+        0.0027,
+        0.0
+      ],
+      "signed_volume_mm3": 15797.7386,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 47.9946,
+      "id": "FL05"
+    },
+    {
+      "path": "filtration/modeles/FL06/FL06.stl",
+      "sha256": "05576efb26a05ca2554f5935590a0a8214ba06d322577f5af915e381a60222ff",
+      "facets": 3800,
+      "vertices": 1890,
+      "dimensions_mm": [
+        153.9655,
+        153.9828,
+        120.0
+      ],
+      "minimum_mm": [
+        0.0345,
+        0.0086,
+        0.0
+      ],
+      "signed_volume_mm3": 584730.4516,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 153.9828,
+      "id": "FL06"
+    },
+    {
+      "path": "filtration/modeles/FL07/FL07.stl",
+      "sha256": "603d7be064f17c540c6ba8d10e4e9a51ae8a1e8fec86172e77231201151f1416",
+      "facets": 11070,
+      "vertices": 5521,
+      "dimensions_mm": [
+        153.9655,
+        153.9828,
+        37.88
+      ],
+      "minimum_mm": [
+        0.0345,
+        0.0086,
+        0.0
+      ],
+      "signed_volume_mm3": 197854.5361,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 153.9828,
+      "id": "FL07"
+    },
+    {
+      "path": "filtration/modeles/FL08/FL08.stl",
+      "sha256": "cbd0c6603f87a1f55ce2ff5b18597f91c688eab0fcf4343dd6076035cc3b1aa1",
+      "facets": 16012,
+      "vertices": 7992,
+      "dimensions_mm": [
+        153.9655,
+        153.9828,
+        37.88
+      ],
+      "minimum_mm": [
+        0.0345,
+        0.0086,
+        0.0
+      ],
+      "signed_volume_mm3": 186098.6295,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 153.9828,
+      "id": "FL08"
+    },
+    {
+      "path": "filtration/modeles/FL09/FL09.stl",
+      "sha256": "0e24f2e4f63639daa61f7c7ec0a92983c4632f3a563613d5c195d762b08e8740",
+      "facets": 840,
+      "vertices": 420,
+      "dimensions_mm": [
+        129.9709,
+        129.9854,
+        3.0
+      ],
+      "minimum_mm": [
+        0.0291,
+        0.0073,
+        0.0
+      ],
+      "signed_volume_mm3": 13337.5221,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 129.9854,
+      "id": "FL09"
+    },
+    {
+      "path": "filtration/modeles/FL10/FL10.stl",
+      "sha256": "60192a6d7fe1984875a5bdf2d3e0efe401896cc51cb400999706d3a68153a43f",
+      "facets": 4028,
+      "vertices": 2000,
+      "dimensions_mm": [
+        235.0,
+        195.0,
+        12.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 545416.6519,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 235.0,
+      "id": "FL10"
+    },
+    {
+      "path": "filtration/modeles/FL11/FL11.stl",
+      "sha256": "c8e0f3121582b1c0e42312d46aca736a05aaff210900a4689ff2ecbb2678c552",
+      "facets": 3482,
+      "vertices": 1733,
+      "dimensions_mm": [
+        50.0,
+        60.0,
+        42.88
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 50080.8779,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 60.0,
+      "id": "FL11"
+    },
+    {
+      "path": "filtration/modeles/FL12/FL12.stl",
+      "sha256": "7d7c90ebf1fd99aca9e68f3c32fe143f87aa806d47afcec2d0344b52c38bcd2d",
+      "facets": 4240,
+      "vertices": 2106,
+      "dimensions_mm": [
+        191.0,
+        117.9908,
+        10.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0046,
+        0.0
+      ],
+      "signed_volume_mm3": 83366.8241,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 191.0,
+      "id": "FL12"
+    },
+    {
+      "path": "filtration/modeles/FL13/FL13.stl",
+      "sha256": "3fed1c108e550d0462d1e7b5144839df62107146f2e31c1c601e005f9d93b0f5",
+      "facets": 4224,
+      "vertices": 2106,
+      "dimensions_mm": [
+        155.9651,
+        155.9825,
+        11.88
+      ],
+      "minimum_mm": [
+        0.0349,
+        0.0087,
+        0.0
+      ],
+      "signed_volume_mm3": 109110.4266,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 155.9825,
+      "id": "FL13"
+    },
+    {
+      "path": "filtration/modeles/FL14/FL14.stl",
+      "sha256": "dd5e308eedf8b771137eca74d5a5423c0c772e571d65e4c3f9783e6641c6086c",
+      "facets": 2020,
+      "vertices": 1008,
+      "dimensions_mm": [
+        65.0,
+        35.0,
+        18.88
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 20957.0581,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 65.0,
+      "id": "FL14"
+    },
+    {
+      "path": "filtration/modeles/FL15/FL15.stl",
+      "sha256": "faed1706c652ab7e2d4976e7d27b3ca7e65e044fb888d451fb9d336e47c6af32",
+      "facets": 760,
+      "vertices": 382,
+      "dimensions_mm": [
+        115.2469,
+        21.999,
+        4.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 5376.1969,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 115.2469,
+      "id": "FL15"
+    },
+    {
+      "path": "filtration/modeles/FL16/FL16.stl",
+      "sha256": "45978b95a93ac1d4c300c05204dc472c85624da27d9970b4a7a5bd74a48760ce",
+      "facets": 1716,
+      "vertices": 854,
+      "dimensions_mm": [
+        95.0,
+        38.0,
+        6.0
+      ],
+      "minimum_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "signed_volume_mm3": 18049.9496,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 95.0,
+      "id": "FL16"
+    },
+    {
+      "path": "filtration/modeles/FL17/FL17.stl",
+      "sha256": "62ece8026dd0ff29269bf876151bc8e23b9e5f57ffa21ef2f40eaa8583035d45",
+      "facets": 12712,
+      "vertices": 6300,
+      "dimensions_mm": [
+        55.1877,
+        55.1938,
+        4.0
+      ],
+      "minimum_mm": [
+        0.0123,
+        0.0031,
+        0.0
+      ],
+      "signed_volume_mm3": 8110.0172,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistent_edges": 0,
+      "degenerate_faces": 0,
+      "duplicate_faces": 0,
+      "components": 1,
+      "topology_valid": true,
+      "fits_creator_5_pro": true,
+      "within_240mm_margin": true,
+      "max_dimension_mm": 55.1938,
+      "id": "FL17"
+    }
+  ]
+}

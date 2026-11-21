@@ -1,0 +1,23 @@
+{
+  "id": "G02",
+  "title": "Stand fit-test coupon",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "sockets": [
+      20.2,
+      20.4,
+      20.6
+    ],
+    "peg": 19.9,
+    "thickness": 10
+  },
+  "dimensions_mm": [
+    138.0,
+    38.0,
+    21.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

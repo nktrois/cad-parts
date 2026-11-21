@@ -1,0 +1,213 @@
+{
+  "units": "mm",
+  "parts": [
+    {
+      "id": "WB01",
+      "title": "Bain ouvert pour immersion",
+      "kind": "bath",
+      "parameters": {
+        "length": 190,
+        "width": 125,
+        "height": 70,
+        "wall": 4,
+        "bottom": 5
+      },
+      "usage": "Contenir un bain compatible ; ouverture supérieure permettant l'observation et la reprise des échantillons.",
+      "fit": "Bain + panier WB02 ; pas une rétention de sécurité.",
+      "path": "modeles/WB01",
+      "dimensions_mm": [
+        190.0,
+        125.0,
+        70.0
+      ],
+      "volume_material_mm3": 275437.079,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WB02",
+      "title": "Panier d'immersion perforé",
+      "kind": "basket",
+      "parameters": {
+        "length": 164,
+        "width": 100,
+        "height": 52,
+        "wall": 3,
+        "bottom": 3.2
+      },
+      "usage": "Introduire et retirer des échantillons assez grands pour rester dans le panier ; circulation du bain par le fond et les côtés.",
+      "fit": "Pieds de 4 mm ; oreilles ajourées ; ajustement prévu dans WB01. La flottabilité et la charge doivent être testées.",
+      "path": "modeles/WB02",
+      "dimensions_mm": [
+        170.0,
+        100.0,
+        78.0
+      ],
+      "volume_material_mm3": 111920.731,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WB03",
+      "title": "Porte-éprouvettes immergeable",
+      "kind": "coupon_holder",
+      "parameters": {
+        "count": 6,
+        "gap": 3.2,
+        "fin": 3,
+        "length": 100,
+        "width": 65
+      },
+      "usage": "Maintenir six plaquettes ou éprouvettes dans un bain compatible, sans besoin de transparence de l'outil.",
+      "fit": "Six fentes de 3,2 mm ; dimensions des éprouvettes à mesurer ; aucune conformité à une norme de corrosion revendiquée.",
+      "path": "modeles/WB03",
+      "dimensions_mm": [
+        100.0,
+        65.0,
+        18.88
+      ],
+      "volume_material_mm3": 42323.284,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WF01",
+      "title": "Porte-filtre gravitaire démontable",
+      "kind": "filter_body",
+      "parameters": {
+        "stem_height": 25,
+        "collector_height": 35,
+        "cup_inner_diameter": 62,
+        "wall": 3.6
+      },
+      "usage": "Soutenir un médium filtrant commercial avec la grille WF02 et collecter un écoulement gravitaire.",
+      "fit": "Portée de grille à z=60 mm ; passage de sortie Ø8 mm. Papier, absence de contournement et filtration à valider. Pas d'aspiration ni de pression.",
+      "path": "modeles/WF01",
+      "dimensions_mm": [
+        69.185,
+        69.192,
+        82.0
+      ],
+      "volume_material_mm3": 40588.803,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WF02",
+      "title": "Grille amovible de filtration",
+      "kind": "filter_disc",
+      "parameters": {
+        "diameter": 61.2,
+        "thickness": 3
+      },
+      "usage": "Supporter un papier ou médium filtrant commercial dans WF01 ; la grille imprimée n'est pas elle-même le filtre fin.",
+      "fit": "Ø61,2 mm dans un logement Ø62 mm ; trous Ø2,5 mm. La zone perforée doit être entièrement couverte par le médium.",
+      "path": "modeles/WF02",
+      "dimensions_mm": [
+        61.186,
+        61.193,
+        3.0
+      ],
+      "volume_material_mm3": 8103.401,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WP01",
+      "title": "Nacelle de pesée à bec",
+      "kind": "weigh_boat",
+      "parameters": {
+        "length": 85,
+        "width": 55,
+        "height": 18,
+        "wall": 2.8,
+        "bottom": 3.2
+      },
+      "usage": "Peser et transférer un produit compatible avec une balance commerciale, après tare de la nacelle.",
+      "fit": "Lecture de masse sur la balance ; pas de dosage volumétrique ni de propreté analytique certifiés.",
+      "path": "modeles/WP01",
+      "dimensions_mm": [
+        85.0,
+        55.0,
+        18.0
+      ],
+      "volume_material_mm3": 25273.64,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WP02",
+      "title": "Palette d'agitation manuelle perforée",
+      "kind": "paddle",
+      "parameters": {
+        "handle_length": 125,
+        "thickness": 4
+      },
+      "usage": "Mélanger manuellement de petits volumes compatibles ; géométrie plate permettant nettoyage et inspection.",
+      "fit": "Longueur 175 mm ; pas d'entraînement motorisé, charge ou tenue thermique qualifiés.",
+      "path": "modeles/WP02",
+      "dimensions_mm": [
+        175.0,
+        40.0,
+        4.0
+      ],
+      "volume_material_mm3": 12752.504,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "WP03",
+      "title": "Bloc de rinçage à trois postes",
+      "kind": "rinse_block",
+      "parameters": {
+        "length": 104,
+        "width": 44,
+        "height": 42,
+        "well_diameter": 26
+      },
+      "usage": "Réaliser des rinçages successifs d'une sonde ou d'un petit outil avec trois liquides compatibles dans des puits indépendants.",
+      "fit": "Trois puits Ø26 mm, profondeur 36 mm ; repérer les postes et vérifier les contaminations croisées.",
+      "path": "modeles/WP03",
+      "dimensions_mm": [
+        104.0,
+        44.0,
+        42.0
+      ],
+      "volume_material_mm3": 133553.739,
+      "material_candidate": "PP non chargé, référence et conditions à qualifier",
+      "chemical_qualified": false,
+      "physically_printed": false,
+      "opacity_limits_use": false,
+      "author": "nktrois",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}

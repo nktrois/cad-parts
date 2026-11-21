@@ -1,0 +1,24 @@
+{
+  "id": "R08",
+  "title": "8-position rack for Ø28 vials",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 28.8,
+    "nx": 4,
+    "ny": 2,
+    "pitch": 37,
+    "height": 32,
+    "edge": 7,
+    "bottom": 4,
+    "drain": 3.2
+  },
+  "dimensions_mm": [
+    153.8,
+    79.8,
+    32.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

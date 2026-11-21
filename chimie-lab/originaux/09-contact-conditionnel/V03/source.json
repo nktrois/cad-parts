@@ -1,0 +1,20 @@
+{
+  "id": "V03",
+  "title": "Ø80 × 100 prototype cup",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "diameter": 80,
+    "height": 100,
+    "wall": 2.4,
+    "bottom": 3
+  },
+  "dimensions_mm": [
+    79.982,
+    79.991,
+    100.0
+  ],
+  "material_candidate": "PP",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

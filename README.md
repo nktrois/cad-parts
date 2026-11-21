@@ -2,13 +2,18 @@
 
 *English · [Français](README.fr.md)*
 
-Small parts designed for a specific need, in OpenSCAD.
+Printable parts and editable CAD sources for workshop and laboratory use.
 
 | Part | Description |
 |---|---|
 | [bride-ventirad](bride-ventirad/) | Compression bracket for an old CPU cooler on an ASRock FM2A88M Extreme4+ (FM2+) |
+| [chimie-lab](chimie-lab/) | 80 original parts: racks, vessels, immersion and filtration tools, with STL, STEP, FreeCAD and parametric Python sources |
 
-Each folder contains the `.scad` source and a print-ready `.stl`.
+Each part has its own folder with printing files, CAD sources and notes. OpenSCAD designs include their `.scad` files; the chemistry collection uses Python/JSON sources with FreeCAD.
+
+![Filtration station and TPU seals](chimie-lab/apercus/filtration-detail.jpg)
+
+[Browse the chemistry catalogue](chimie-lab/CATALOGUE.md). These are digital prototypes; chemical compatibility, leak tightness, heating and vacuum use have not been physically qualified.
 
 ## Material selection
 

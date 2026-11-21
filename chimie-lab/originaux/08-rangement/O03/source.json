@@ -1,0 +1,22 @@
+{
+  "id": "O03",
+  "title": "Three-compartment organizer",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "length": 180,
+    "width": 120,
+    "height": 22,
+    "wall": 3,
+    "bottom": 3,
+    "dividers": 2
+  },
+  "dimensions_mm": [
+    180.0,
+    120.0,
+    22.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

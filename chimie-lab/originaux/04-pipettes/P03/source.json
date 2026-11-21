@@ -1,0 +1,22 @@
+{
+  "id": "P03",
+  "title": "Five-pipette support comb",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "length": 160,
+    "width": 65,
+    "thickness": 8,
+    "slot": 10.5,
+    "slots": 5,
+    "socket": 16.4
+  },
+  "dimensions_mm": [
+    160.0,
+    65.0,
+    8.0
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}

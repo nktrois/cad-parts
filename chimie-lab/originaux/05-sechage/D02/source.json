@@ -1,0 +1,22 @@
+{
+  "id": "D02",
+  "title": "Drying rack for six lids",
+  "generator": "../../../scripts/build_freecad.py",
+  "settings": "../../../catalogue-base.json",
+  "parameters_reference": {
+    "slots": 6,
+    "gap": 15,
+    "fin": 3,
+    "length": 100,
+    "height": 32,
+    "base": 5
+  },
+  "dimensions_mm": [
+    123.0,
+    100.0,
+    36.9
+  ],
+  "material_candidate": "PETG",
+  "author": "nktrois",
+  "license": "CC-BY-4.0"
+}
